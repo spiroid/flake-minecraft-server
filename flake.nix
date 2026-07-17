@@ -58,6 +58,7 @@
            jdkPackage
            pkgs.curl
            pkgs.jq
+	   pkgs.mcrcon
          ];
 
          shellHook = ''
