@@ -65,7 +65,9 @@
           fi
 
           echo "[craftoria2] Synchronisation des overrides..."
-          rsync -rlt --ignore-existing --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r "\$SERVER_SHARE/overrides-store/" ./
+          cp -rn "\$SERVER_SHARE/overrides-store/." ./
+          find . -type d -exec chmod u+rwx,go+rx {} +
+          find . -type f -exec chmod u+rw,go+r {} +
           chmod u+rwx .
 
           rm -rf mods
@@ -81,7 +83,7 @@
 
           mkdir -p $out/bin
           makeWrapper $out/share/craftoria2-server/start.sh $out/bin/craftoria2-server \
-            --prefix PATH : ${pkgs.lib.makeBinPath [ jdkPackage pkgs.rsync pkgs.bash pkgs.coreutils ]}
+            --prefix PATH : ${pkgs.lib.makeBinPath [ jdkPackage pkgs.rsync pkgs.findutils pkgs.bash pkgs.coreutils ]}
         '';
 
         meta.mainProgram = "craftoria2-server";
