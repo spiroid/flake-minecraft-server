@@ -87,10 +87,11 @@
       };
     in
     {
-      packages.${system}.default = neoforgeServerPackage;
-
-      # Exposé séparément, utile pour tester juste l'assemblage des mods (nix build .#craftoriaMods)
-      packages.${system}.craftoriaMods = modsDir;
+      packages.${system} = {
+        default = neoforgeServerPackage;
+        # Exposé séparément, utile pour tester juste l'assemblage des mods (nix build .#craftoriaMods)
+        craftoriaMods = modsDir;
+      };
 
       apps.${system}.default = {
         type = "app";
