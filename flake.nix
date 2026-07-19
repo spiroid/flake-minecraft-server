@@ -28,13 +28,25 @@
       # --- Les 202 mods du pack Craftoria 2, verrouillés via mods-lock.json ---
       modsLockData = builtins.fromJSON (builtins.readFile ./mods-lock.json);
 
+      # Mods client-only qui font planter le serveur dédié (NoClassDefFoundError sur des
+      # classes de net.minecraft.client.*, absentes côté serveur). Découverts au fil des crashs.
+      excludedMods = [
+        "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar"          # patch de compatibilité shaders, client only
+        "entity_model_features-3.2.4-26.1-neoforge.jar"      # EMF, rendu visuel des entités, client only
+        "entity_texture_features_26.1-neoforge-7.1.jar"      # ETF, variations de texture, client only
+      ];
+
+      modsLockDataFiltered = builtins.filter
+        (m: !(builtins.elem m.filename excludedMods))
+        modsLockData;
+
       modsDir = pkgs.linkFarm "craftoria2-mods" (map (m: {
         name = m.filename;
         path = pkgs.fetchurl {
           url = m.url;
           sha256 = m.sha256;
         };
-      }) modsLockData);
+      }) modsLockDataFiltered);
 
       # --- Fichiers de config fournis par le pack (dossier overrides/ du zip CurseForge) ---
       craftoriaOverrides = ./craftoria2-overrides;
