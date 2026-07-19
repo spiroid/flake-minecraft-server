@@ -1,0 +1,303 @@
+{
+  id: "1910D05CD66EC477",
+  group: "5016E3C5975D88DE",
+  order_index: 0,
+  icon: {
+    id: "starcatcher:starcatcher_rod",
+    count: 1,
+  },
+  filename: "Fishing",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  autofocus_id: "3F3C9A6F590496AD",
+  quests: [
+    {
+      x: 1.5,
+      y: 3.5,
+      shape: "circle",
+      dependencies: [
+        "3F3C9A6F590496AD",
+      ],
+      size: 1.0,
+      id: "3295D859B01FA315",
+      tasks: [
+        {
+          id: "0DD97F314CE5F5E0",
+          type: "item",
+          item: {
+            id: "starcatcher:starcatcher_guide",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3ADF6249907AC659",
+          type: "item",
+          item: {
+            id: "aquaculture:box",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: 2.25,
+      shape: "hexagon",
+      size: 1.5,
+      id: "3F3C9A6F590496AD",
+      tasks: [
+        {
+          id: "155CF85BC21B5B08",
+          type: "item",
+          item: {
+            id: "starcatcher:starcatcher_rod",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2C6CFAAC7CE2CEA9",
+          type: "item",
+          item: {
+            id: "aquaculture:box",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      x: 3.0,
+      y: 4.5,
+      dependencies: [
+        "3295D859B01FA315",
+      ],
+      id: "00ABC6D5601DCD95",
+      tasks: [
+        {
+          id: "691E6AA922761E29",
+          type: "item",
+          item: {
+            id: "starcatcher:hook",
+            count: 1,
+          },
+        },
+        {
+          id: "7376AAE3B45AD4B9",
+          type: "item",
+          item: {
+            id: "starcatcher:bobber",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "13B875D94E29638C",
+          type: "item",
+          item: {
+            id: "aquaculture:treasure_chest",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: 4.5,
+      dependencies: [
+        "3295D859B01FA315",
+      ],
+      id: "2C42A6E79A5242F0",
+      tasks: [
+        {
+          id: "02DFB662F73867FF",
+          type: "item",
+          item: {
+            id: "starcatcher:lush_bait",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0C8F806BE3996506",
+          type: "item",
+          item: {
+            id: "aquaculture:treasure_chest",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: 5.0,
+      dependencies: [
+        "3295D859B01FA315",
+      ],
+      id: "5D0F6404B76F480E",
+      tasks: [
+        {
+          id: "07652C148D455797",
+          type: "item",
+          item: {
+            id: "starcatcher:fish_radar",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6261BC5CD1612BCA",
+          type: "item",
+          item: {
+            id: "aquaculture:lockbox",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: 0.5,
+      size: 1.0,
+      id: "4ED1400E2AAAAAE1",
+      tasks: [
+        {
+          id: "018DB91FAFFC46B5",
+          type: "item",
+          item: {
+            id: "starcatcher:trophy_copper",
+            count: 1,
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "20AB101F4B54FBCF",
+          type: "item",
+          item: {
+            id: "aquaculture:box",
+            count: 1,
+          },
+          count: 64,
+        },
+      ],
+    },
+    {
+      x: 1.0,
+      y: 0.5,
+      dependencies: [
+        "4ED1400E2AAAAAE1",
+      ],
+      size: 1.0,
+      id: "30A0D33361D77D7E",
+      tasks: [
+        {
+          id: "285134647C8E9555",
+          type: "item",
+          item: {
+            id: "starcatcher:trophy_iron",
+            count: 1,
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "03C0A8ED94C93668",
+          type: "item",
+          item: {
+            id: "aquaculture:lockbox",
+            count: 1,
+          },
+          count: 64,
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: 0.5,
+      dependencies: [
+        "30A0D33361D77D7E",
+      ],
+      size: 1.0,
+      id: "029AD1060C129C86",
+      tasks: [
+        {
+          id: "2FA6F7811973B494",
+          type: "item",
+          item: {
+            id: "starcatcher:trophy_gold",
+            count: 1,
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "1BC3335C1AA13EEC",
+          type: "item",
+          item: {
+            id: "aquaculture:treasure_chest",
+            count: 1,
+          },
+          count: 64,
+        },
+      ],
+    },
+    {
+      x: 3.0,
+      y: 0.5,
+      dependencies: [
+        "029AD1060C129C86",
+      ],
+      size: 1.0,
+      id: "004F6F95B5880770",
+      tasks: [
+        {
+          id: "6F8FA5CD1CE219BC",
+          type: "item",
+          item: {
+            id: "starcatcher:trophy_emerald",
+            count: 1,
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "1BE079362DCABD56",
+          type: "item",
+          item: {
+            id: "aquaculture:treasure_chest",
+            count: 1,
+          },
+          count: 64,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+    {
+      x: 1.5,
+      y: -1.5,
+      width: 7.0,
+      height: 7.0,
+      rotation: 0.0,
+      image: "ftbquests:textures/gui/fishing.png",
+      id: "7B48B4E0C5485124",
+    },
+  ],
+}

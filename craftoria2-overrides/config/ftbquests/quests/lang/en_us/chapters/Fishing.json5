@@ -1,0 +1,30 @@
+{
+  "quest.00ABC6D5601DCD95.quest_desc": [
+    "Every great angler knows that a fishing rod is only as good as its tackle.",
+    "",
+    "&6Hooks&r and &bBobbers&r can be attached to your rod to grant unique effects, from earning extra experience and treasure to making difficult catches easier or preserving your precious bait.",
+    "",
+    "Mix and match different combinations to suit your goals. Some attachments improve the fishing minigame, while others increase rewards or unlock entirely new possibilities, like &cCrystal Hooks&r for lava fishing.",
+    "",
+    "Experiment with different setups and find the perfect tackle for your next big catch. Sometimes, the right &6Hook&r or &bBobber&r is all that stands between an ordinary fish and a legendary haul.",
+  ],
+  "task.7376AAE3B45AD4B9.title": "Bobbers",
+  "quest.5D0F6404B76F480E.quest_subtitle": "A handy tool displaying the fishes in your area.",
+  "quest.3F3C9A6F590496AD.quest_desc": [
+    "To open the &6GUI&r to add different hooks, bobbers and baits &3sneak&r + &3right-click&r.",
+  ],
+  "quest.30A0D33361D77D7E.quest_subtitle": "Catch &625&r unique fishes.",
+  "quest.3295D859B01FA315.quest_desc": [
+    "This &bbook&r is your &3collection log&r for anything fishing, from &5rare fish&r to &6shiny trophies&r.",
+  ],
+  "quest.3F3C9A6F590496AD.quest_subtitle": "Can you catch them all?",
+  "quest.3295D859B01FA315.quest_subtitle": "A Fisherman's Tale",
+  "quest.2C42A6E79A5242F0.title": "Baits",
+  "task.691E6AA922761E29.title": "Hooks",
+  "quest.2C42A6E79A5242F0.quest_subtitle": "Used for biome specific fish.",
+  "quest.004F6F95B5880770.quest_subtitle": "Catch &a200&r total fishes and &610&r unique legendary fishes.",
+  "quest.029AD1060C129C86.quest_subtitle": "Catch &a100&r total fishes and &62&r unique legendary fishes.",
+  "quest.4ED1400E2AAAAAE1.quest_subtitle": "Catch &a25&r common fishes (total).",
+  "quest.3295D859B01FA315.title": "&bStarcatcher's Guide",
+  "quest.00ABC6D5601DCD95.title": "Hooks and Bobbers",
+}

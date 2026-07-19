@@ -1,0 +1,153 @@
+{
+  id: "303299C956CA9C80",
+  order_index: 3,
+  icon: {
+    id: "justdirethings:gooblock_tier1",
+    count: 1,
+  },
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "003CB73E7A2DA771",
+      item: {
+        id: "justdirethings:upgrade_mindfog",
+        count: 1,
+      },
+    },
+    {
+      id: "06C844C86208E1F3",
+      item: {
+        id: "justdirethings:upgrade_invulnerability",
+        count: 1,
+      },
+    },
+    {
+      id: "554C16BCB259C8CD",
+      item: {
+        id: "justdirethings:upgrade_runspeed",
+        count: 1,
+      },
+    },
+    {
+      id: "10FB488C443A5C85",
+      item: {
+        id: "justdirethings:upgrade_walkspeed",
+        count: 1,
+      },
+    },
+    {
+      id: "7603D85A37685757",
+      item: {
+        id: "justdirethings:upgrade_stepheight",
+        count: 1,
+      },
+    },
+    {
+      id: "6CFBD930BA6186BD",
+      item: {
+        id: "justdirethings:upgrade_jumpboost",
+        count: 1,
+      },
+    },
+    {
+      id: "017F1C4E5BED4C13",
+      item: {
+        id: "justdirethings:upgrade_mobscanner",
+        count: 1,
+      },
+    },
+    {
+      id: "060F3CFE84CCAB16",
+      item: {
+        id: "justdirethings:upgrade_orescanner",
+        count: 1,
+      },
+    },
+    {
+      id: "4E761217467EB611",
+      item: {
+        id: "justdirethings:upgrade_oreminer",
+        count: 1,
+      },
+    },
+    {
+      id: "6290FCF9874DBBB2",
+      item: {
+        id: "justdirethings:upgrade_lawnmower",
+        count: 1,
+      },
+    },
+    {
+      id: "1AE2360B8DE17526",
+      item: {
+        id: "justdirethings:upgrade_skysweeper",
+        count: 1,
+      },
+    },
+    {
+      id: "5CC1A331BB8551D0",
+      item: {
+        id: "justdirethings:upgrade_treefeller",
+        count: 1,
+      },
+    },
+    {
+      id: "1B53ABD4EFAFA675",
+      item: {
+        id: "justdirethings:upgrade_leafbreaker",
+        count: 1,
+      },
+    },
+    {
+      id: "75F05569B2848443",
+      item: {
+        id: "justdirethings:upgrade_potionarrow",
+        count: 1,
+      },
+    },
+    {
+      id: "6AAFF9B741965515",
+      item: {
+        id: "justdirethings:raw_ferricore_ore",
+        count: 1,
+      },
+    },
+    {
+      id: "34C737C7778D2B87",
+      item: {
+        id: "justdirethings:raw_coal_t3_ore",
+        count: 1,
+      },
+    },
+    {
+      id: "5AB593289F38D02E",
+      item: {
+        id: "justdirethings:fuel_canister",
+        count: 1,
+      },
+    },
+    {
+      id: "0AE3FC0DDBE10C44",
+      item: {
+        id: "justdirethings:fluid_canister",
+        count: 1,
+      },
+    },
+    {
+      id: "101A528AAF42B284",
+      item: {
+        id: "justdirethings:potion_canister",
+        count: 1,
+      },
+    },
+    {
+      id: "29145C97C736CD15",
+      item: {
+        id: "justdirethings:template_ferricore",
+        count: 1,
+      },
+    },
+  ],
+}

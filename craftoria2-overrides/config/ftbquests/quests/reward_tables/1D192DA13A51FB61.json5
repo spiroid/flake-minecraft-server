@@ -1,0 +1,90 @@
+{
+  id: "1D192DA13A51FB61",
+  order_index: 1,
+  icon: {
+    id: "justdirethings:gooblock_tier2",
+    count: 1,
+  },
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "5084B2BF7BB091B2",
+      item: {
+        id: "justdirethings:raw_blazegold_ore",
+        count: 1,
+      },
+    },
+    {
+      id: "44C70E5B98B5B2AD",
+      item: {
+        id: "justdirethings:raw_coal_t2_ore",
+        count: 1,
+      },
+    },
+    {
+      id: "4D075915037B7060",
+      item: {
+        id: "justdirethings:coalblock_t2",
+        count: 1,
+      },
+    },
+    {
+      id: "00E750A1960AB464",
+      item: {
+        id: "justdirethings:template_blazegold",
+        count: 1,
+      },
+    },
+    {
+      id: "37FE999BF7330BE6",
+      item: {
+        id: "justdirethings:upgrade_groundstomp",
+        count: 1,
+      },
+    },
+    {
+      id: "070EC1E107635A83",
+      item: {
+        id: "justdirethings:upgrade_extinguish",
+        count: 1,
+      },
+    },
+    {
+      id: "061074C7F97FA761",
+      item: {
+        id: "justdirethings:upgrade_swimspeed",
+        count: 1,
+      },
+    },
+    {
+      id: "2BE0CEB85D1DD965",
+      item: {
+        id: "justdirethings:upgrade_stupefy",
+        count: 1,
+      },
+    },
+    {
+      id: "76C7DB3865708B43",
+      item: {
+        id: "justdirethings:upgrade_cauterizewounds",
+        count: 1,
+      },
+    },
+    {
+      id: "14620A7B0FA074A0",
+      item: {
+        id: "justdirethings:upgrade_hammer",
+        count: 1,
+      },
+    },
+    {
+      id: "43B70D2D19D7B4D6",
+      item: {
+        id: "justdirethings:upgrade_splash",
+        count: 1,
+      },
+    },
+  ],
+}

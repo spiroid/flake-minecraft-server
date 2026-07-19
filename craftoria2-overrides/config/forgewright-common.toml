@@ -1,0 +1,105 @@
+#Print the Forgewright startup banner to the log.
+logStartupBanner = true
+#Enable GeckoLib rotation animation for shaft blocks.
+#When true, every shaft in a powered network spins at its network's RPM.
+#When false, the shaft falls back to a vanilla static model — useful on
+#low-end hardware or when a long shaft network drops the frame rate.
+shaftAnimation = true
+#Visual theme for Forgewright machine menu screens.
+#  FORGEWRIGHT — parchment + copper + tooled-leather, cohesive with the in-game Codex.
+#  VANILLA     — lo-fi grey panel matching Minecraft's stock container chrome.
+#Client-side preference; toggle takes effect on next painted frame, no restart needed.
+#Note: this lives in the common config for now. On multiplayer the server's value applies
+#to clients that don't override it; per-client preference will move to a client-only spec
+#in a follow-up.
+#Allowed Values: FORGEWRIGHT, VANILLA
+menuTheme = "FORGEWRIGHT"
+
+[fluid]
+	#Pressure loss per uninsulated brass pipe segment, in tenths of a bar.
+	#Default 0.05 (= 0.005 bar/segment). Realistic friction loss is sub-tenth at
+	#game-scale segment lengths; the value accumulates across all uninsulated
+	#segments in a network and is rounded to integer tenths for the network's
+	#equilibrated pressure.
+	# Default: 0.05
+	# Range: 0.0 ~ 100.0
+	loss_uninsulated_tenths = 0.05
+	#Pressure loss per insulated brass pipe segment, in tenths of a bar.
+	#Default 0 — insulation governs heat retention, not friction; modelled as
+	#lossless at network scale.
+	# Default: 0.0
+	# Range: 0.0 ~ 100.0
+	loss_insulated_tenths = 0.0
+	#Temperature loss per uninsulated pipe segment, in K. Default 5.
+	# Default: 5
+	# Range: 0 ~ 100
+	temp_loss_uninsulated_k = 5
+	#Temperature loss per insulated pipe segment, in K. Default 1.
+	# Default: 1
+	# Range: 0 ~ 100
+	temp_loss_insulated_k = 1
+	#Minimum temperature K at which an uninsulated pipe ruptures. Default 380 K.
+	# Default: 380
+	# Range: 100 ~ 1000
+	rupture_temp_k = 380
+	#Minimum pressure (tenths of bar) above which an uninsulated pipe ruptures while above rupture_temp_k. Default 20 (= 2.0 bar).
+	# Default: 20
+	# Range: 0 ~ 100
+	rupture_pressure_tenths = 20
+	#Toggle pipe rupture mechanics on or off. Default true.
+	rupture_enabled = true
+
+[transmission]
+	#Maximum SU a Tier 1 Belt-Pulley Junction will transmit before its network
+	#freezes (totalLoad > cap → frozen). Default 24 — sized so a Hand Crank
+	#(4 SU) feeding 2 Millstones (3+3) stays under cap, but a Steam Engine driving
+	#two Edge Runners (12+12) trips it. Forces players to chain heavier producers
+	#through the Heavy-Duty Junction instead of stacking T1 belts indefinitely.
+	# Default: 24
+	# Range: 1 ~ 9223372036854775807
+	belt_pulley_su_cap = 24
+	#Maximum SU a Tier 2 Heavy-Duty Belt-Pulley Junction will transmit before
+	#its rubber drive belt enters the snap-failure tick counter. Default 48 (= 2× T1).
+	#Higher cap is the upgrade reason; the trade-off is the snap-on-overload failure
+	#mode (see HEAVY_DUTY_SNAP_THRESHOLD_TICKS).
+	# Default: 48
+	# Range: 1 ~ 9223372036854775807
+	heavy_duty_su_cap = 48
+	#Number of consecutive over-cap server ticks before a Heavy-Duty Belt-Pulley
+	#Junction transitions OK → BROKEN. Default 20 (= 1 second at 20 TPS). Counter
+	#resets to 0 when load drops back under cap.
+	# Default: 20
+	# Range: 1 ~ 6000
+	heavy_duty_snap_threshold_ticks = 20
+
+[npc]
+	#Master toggle for the worker needs system (food/sleep/wages/morale).
+	#When false, all four needs stay pinned at 100 — workers never get hungry,
+	#tired, broke, or unhappy. Useful for casual play.
+	needs_enabled = true
+	#Multiplier on need-decay rates. 1.0 = spec defaults; 0.5 = gentle (twice
+	#as long between meals); 2.0 = harsh.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	needs_severity = 1.0
+	#When false, workers reduced to 0 HP vanish quietly instead of dropping
+	#items + leaving a gravestone. Death-handling content lands in 4s; this flag
+	#is wired now so addons can check it from day one.
+	death_enabled = true
+	#Hard cap on how many workers a single player can hold an employer-UUID for.
+	# Default: 50
+	# Range: 1 ~ 500
+	max_workers_per_player = 50
+	#ITEMS — wages paid as physical items the worker holds onto.
+	#CREDITS — wages paid as abstract currency (Phase 7 banking; out of 4r scope).
+	#Allowed Values: ITEMS, CREDITS
+	wage_type = "ITEMS"
+	#If true, workers retire after 1 MC year of employment (~122 real-world hours)
+	#and die of natural causes 1 MC week later if not honored via a retirement ritual.
+	#Set false to disable old-age mortality entirely — workers live until killed.
+	old_age_enabled = true
+	#If true, only a worker's employer can interact with them. Other players see
+	#a 'Not your worker' actionbar message. Shift+rclick + iron ingot bypasses the gate
+	#to open the Reassign Employer prompt (which costs the offering player -10 reputation).
+	#Set false in a fully cooperative server where workers are shared community assets.
+	multiplayer_recognition = true

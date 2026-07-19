@@ -1,0 +1,7 @@
+#Adjusts crops and plants for Biomes O' Plenty.
+#Removes seasonal requirements for saplings and mushrooms, adds humidity rules, snow-covered variants, and preserves biome colors.
+[es_x_bop]
+	#Enable compat package es_x_bop
+	Enable = true
+	#This package will be loaded first.
+	PriorityLoading = false

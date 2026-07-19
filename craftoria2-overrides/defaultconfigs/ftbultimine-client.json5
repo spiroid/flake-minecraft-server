@@ -1,0 +1,12 @@
+/*
+ * Client-specific configuration for FTB Ultimine
+ * Modpack defaults should be defined in <instance>/config/ftbultimine-client.json5
+ *   (may be overwritten on modpack update)
+ * Players may locally override this by copying into <instance>/local/ftbultimine-client.json5
+ *   (will NOT be overwritten on modpack update)
+ */
+{
+  overlay: {
+    overlay_inset_y: 20,
+  },
+}

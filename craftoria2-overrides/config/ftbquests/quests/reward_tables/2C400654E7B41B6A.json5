@@ -1,0 +1,155 @@
+{
+  id: "2C400654E7B41B6A",
+  order_index: 2,
+  icon: {
+    id: "ae2:mysterious_cube",
+    count: 1,
+  },
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "199B6BC6A293B8E8",
+      item: {
+        id: "ae2:certus_quartz_crystal",
+        count: 1,
+      },
+      count: 16,
+    },
+    {
+      id: "0AE457DA0FBB8FC4",
+      item: {
+        id: "ae2:charged_certus_quartz_crystal",
+        count: 1,
+      },
+      count: 8,
+    },
+    {
+      id: "5AD6B4093704542C",
+      item: {
+        id: "ae2:certus_quartz_dust",
+        count: 1,
+      },
+      count: 8,
+    },
+    {
+      id: "29092A2CBBF7E69C",
+      item: {
+        id: "ae2:fluix_crystal",
+        count: 1,
+      },
+      count: 8,
+    },
+    {
+      id: "0047BC0B222A9347",
+      item: {
+        id: "ae2:fluix_dust",
+        count: 1,
+      },
+      count: 8,
+    },
+    {
+      id: "1E4D435FBC617A50",
+      item: {
+        id: "ae2:formation_core",
+        count: 1,
+      },
+      count: 2,
+    },
+    {
+      id: "73D7AD0C45BE0B2C",
+      item: {
+        id: "ae2:annihilation_core",
+        count: 1,
+      },
+      count: 2,
+    },
+    {
+      id: "7F8A7D78780C8FCC",
+      item: {
+        id: "ae2:item_cell_housing",
+        count: 1,
+      },
+      count: 3,
+    },
+    {
+      id: "3FA49D01A4AFAC23",
+      item: {
+        id: "ae2:quartz_glass",
+        count: 1,
+      },
+      count: 8,
+    },
+    {
+      id: "712304AC1E547081",
+      item: {
+        id: "ae2:tiny_tnt",
+        count: 1,
+      },
+      count: 4,
+    },
+    {
+      id: "05A7091EFCC2F1E5",
+      item: {
+        id: "ae2:blank_pattern",
+        count: 1,
+      },
+      count: 8,
+    },
+    {
+      id: "79F39E2B6DE35D29",
+      item: {
+        id: "ae2:silicon",
+        count: 1,
+      },
+      count: 8,
+    },
+    {
+      id: "2BD93B2E527F9839",
+      item: {
+        id: "ae2:matter_ball",
+        count: 1,
+      },
+      count: 8,
+    },
+    {
+      id: "776B5C63FD18E4B4",
+      item: {
+        id: "ae2:cell_component_1k",
+        count: 1,
+      },
+      count: 2,
+    },
+    {
+      id: "40D12AA564506C47",
+      item: {
+        id: "ae2:crystal_resonance_generator",
+        count: 1,
+      },
+    },
+    {
+      id: "06CF58768A89F229",
+      item: {
+        id: "ae2:growth_accelerator",
+        count: 1,
+      },
+    },
+    {
+      id: "074C30C308AEBA51",
+      item: {
+        id: "ae2:fluid_cell_housing",
+        count: 1,
+      },
+      count: 4,
+    },
+    {
+      id: "17DF56B254F103F7",
+      item: {
+        id: "extendedae:entro_crystal",
+        count: 1,
+      },
+      count: 6,
+    },
+  ],
+}

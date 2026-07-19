@@ -1,0 +1,376 @@
+{
+  id: "001B56BD678E7745",
+  group: "066C799B2F5452CD",
+  order_index: 1,
+  icon: {
+    id: "powah:thermo_generator_spirited",
+    count: 1,
+  },
+  filename: "Powah",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  quests: [
+    {
+      icon: {
+        id: "powah:energy_cell_creative",
+        count: 1,
+      },
+      x: 0.0,
+      y: 1.5,
+      size: 3.0,
+      id: "00897CCAC72E82C5",
+      tasks: [
+        {
+          id: "7537E40C4FAB6D5C",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "33958A76F9555956",
+          type: "item",
+          item: {
+            id: "powah:book",
+            count: 1,
+          },
+        },
+        {
+          id: "414D58F018237F00",
+          type: "item",
+          item: {
+            id: "powah:wrench",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -1.5,
+      y: -3.5,
+      id: "292875386D7B9981",
+      tasks: [
+        {
+          id: "11766A72550ACF51",
+          type: "item",
+          item: {
+            id: "powah:uraninite",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -2.5,
+      dependencies: [
+        "5663A6C559490A29",
+      ],
+      id: "119752DA7C1B29B6",
+      tasks: [
+        {
+          id: "5F2C77F9B6C1DAD9",
+          type: "item",
+          item: {
+            id: "powah:blank_card",
+            count: 1,
+          },
+        },
+        {
+          id: "4E472BC0CA97BAC3",
+          type: "item",
+          item: {
+            id: "powah:binding_card",
+            count: 1,
+          },
+        },
+        {
+          id: "1695BBDE53D77E83",
+          type: "item",
+          item: {
+            id: "powah:binding_card_dim",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "powah:energy_cable_spirited",
+        count: 1,
+      },
+      x: -2.25,
+      y: 1.5,
+      hide_dependency_lines: true,
+      size: 1.5,
+      id: "390323A83EB8009A",
+      tasks: [
+        {
+          id: "5C2F095C4AC9DF13",
+          type: "item",
+          item: {
+            id: "powah:energy_cable_basic",
+            count: 1,
+          },
+        },
+        {
+          id: "77EC7DAC5C798DDC",
+          type: "item",
+          item: {
+            id: "powah:battery_basic",
+            count: 1,
+          },
+        },
+        {
+          id: "59258C3FDAB9CC75",
+          type: "item",
+          item: {
+            id: "powah:energy_cell_basic",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "powah:ender_gate_spirited",
+        count: 1,
+      },
+      x: 2.25,
+      y: 1.5,
+      hide_dependency_lines: true,
+      size: 1.5,
+      id: "3311C5BAAAEA0823",
+      tasks: [
+        {
+          id: "36B1F57506291C95",
+          type: "item",
+          item: {
+            id: "powah:ender_cell_basic",
+            count: 1,
+          },
+        },
+        {
+          id: "6A16A0FB74EC2B38",
+          type: "item",
+          item: {
+            id: "powah:ender_gate_basic",
+            count: 1,
+          },
+        },
+        {
+          id: "72BAF1330C6AE11B",
+          type: "item",
+          item: {
+            id: "powah:player_transmitter_basic",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "powah:thermo_generator_spirited",
+        count: 1,
+      },
+      x: 0.0,
+      y: 3.75,
+      hide_dependency_lines: true,
+      size: 1.5,
+      id: "6E28C25469FF7738",
+      tasks: [
+        {
+          id: "5DD3B418B6862FFF",
+          type: "item",
+          item: {
+            id: "powah:furnator_basic",
+            count: 1,
+          },
+        },
+        {
+          id: "4AD89779680F7466",
+          type: "item",
+          item: {
+            id: "powah:thermo_generator_basic",
+            count: 1,
+          },
+        },
+        {
+          id: "584D4FA7A92C14DB",
+          type: "item",
+          item: {
+            id: "powah:magmator_basic",
+            count: 1,
+          },
+        },
+        {
+          id: "7A17C2892FAB9740",
+          type: "item",
+          item: {
+            id: "powah:solar_panel_basic",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "powah:energizing_orb",
+        count: 1,
+      },
+      x: -1.5,
+      y: -2.5,
+      id: "07EF829BFBBB4009",
+      tasks: [
+        {
+          id: "771EAF531423D974",
+          type: "item",
+          item: {
+            id: "powah:energizing_orb",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "powah:reactor_spirited",
+        count: 1,
+      },
+      x: 0.0,
+      y: -0.75,
+      size: 1.5,
+      id: "02476BE69FBC0681",
+      tasks: [
+        {
+          id: "03AAFBF80CA3A174",
+          type: "item",
+          item: {
+            id: "powah:reactor_starter",
+            count: 1,
+          },
+          count: 36,
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -2.5,
+      dependencies: [
+        "07EF829BFBBB4009",
+      ],
+      id: "5663A6C559490A29",
+      tasks: [
+        {
+          id: "7A322269F1468DEC",
+          type: "item",
+          item: {
+            id: "powah:aerial_pearl",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:blue_ice",
+        count: 1,
+      },
+      x: 0.0,
+      y: -3.5,
+      dependencies: [
+        "292875386D7B9981",
+      ],
+      id: "06DED76B2F4AFD02",
+      tasks: [
+        {
+          id: "031983DCE9119050",
+          type: "item",
+          item: {
+            id: "powah:dry_ice",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -3.5,
+      dependencies: [
+        "06DED76B2F4AFD02",
+      ],
+      id: "001579E45AFFB837",
+      tasks: [
+        {
+          id: "6A3E6B6893C95827",
+          type: "item",
+          item: {
+            id: "powah:charged_snowball",
+            count: 1,
+          },
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+    {
+      x: 4.0,
+      y: 1.5,
+      width: 6.0,
+      height: 6.0,
+      rotation: 90.0,
+      image: "ftbquests:textures/gui/title_powah.png",
+      color: 13174055,
+      id: "6649DB66A8A6C437",
+    },
+    {
+      x: -4.0,
+      y: 1.5,
+      width: 6.0,
+      height: 6.0,
+      rotation: -90.0,
+      image: "ftbquests:textures/gui/title_powah.png",
+      color: 16230400,
+      id: "7489A4977D4EAB0E",
+    },
+    {
+      x: 1.5,
+      y: 3.0,
+      width: 1.5,
+      height: 1.5,
+      rotation: 0.0,
+      image: "powah:textures/item/crystal_blazing.png",
+      id: "0349EECD0B6279D5",
+    },
+    {
+      x: -1.5,
+      y: 3.0,
+      width: 1.5,
+      height: 1.5,
+      rotation: 0.0,
+      image: "powah:textures/item/crystal_niotic.png",
+      id: "32FC7E28A4B8D3B6",
+    },
+    {
+      x: 1.5,
+      y: 0.0,
+      width: 1.5,
+      height: 1.5,
+      rotation: 0.0,
+      image: "powah:textures/item/crystal_spirited.png",
+      id: "098344D905A79A2C",
+    },
+    {
+      x: -1.5,
+      y: 0.0,
+      width: 1.5,
+      height: 1.5,
+      rotation: 0.0,
+      image: "powah:textures/item/crystal_nitro.png",
+      id: "0231D030637163C0",
+    },
+  ],
+}

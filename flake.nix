@@ -1,8 +1,8 @@
 {
-  description = "Un serveur Minecraft Fabric packagé avec Nix";
+  description = "Serveur Minecraft NeoForge (Craftoria 2 - Worlds Beyond)";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   };
 
   outputs = { self, nixpkgs, ... }:
@@ -10,62 +10,100 @@
       system = "x86_64-linux";
       pkgs = import nixpkgs { inherit system; };
 
-      # --- Paramètres configurables du serveur ---
-      minecraftVersion = "26.2";
-      fabricLoaderVersion = "0.19.3";
-      installerVersion    = "1.1.0";
-      jdkPackage = pkgs.jdk25;
+      # --- Paramètres configurables ---
+      minecraftVersion = "26.1.2";
+      neoforgeVersion  = "26.1.2.76";
+      jdkPackage       = pkgs.jdk25;
 
-      fabricServerLauncher = pkgs.fetchurl {
-        url = "https://meta.fabricmc.net/v2/versions/loader/${minecraftVersion}/${fabricLoaderVersion}/${installerVersion}/server/jar";
-        sha256 = "0syp267rf5fnk7kvdr25p1x4n7n1la05zp623scr9xk3680h426q";
+      # Mémoire allouée au serveur (ajustée à la baisse : VPS à 5,8 Go RAM)
+      craftoriaMinMemory = "3G";
+      craftoriaMaxMemory = "4G";
+
+      # --- L'installeur NeoForge ---
+      neoforgeInstaller = pkgs.fetchurl {
+        url = "https://maven.neoforged.net/releases/net/neoforged/neoforge/${neoforgeVersion}/neoforge-${neoforgeVersion}-installer.jar";
+        sha256 = "1v3lb4im3fgab50yix42d65y05anpyxqviz4pbfrac4gvxyzhyzn";
       };
 
-      # Quantité de RAM allouée au serveur (modifiable ici)
-      minMemory = "2G";
-      maxMemory = "2G";
+      # --- Les 202 mods du pack Craftoria 2, verrouillés via mods-lock.json ---
+      modsLockData = builtins.fromJSON (builtins.readFile ./mods-lock.json);
 
-      minecraftServerPackage = pkgs.stdenv.mkDerivation {
-        pname = "minecraft-fabric-server";
-        version = "${minecraftVersion}-${fabricLoaderVersion}";
+      modsDir = pkgs.linkFarm "craftoria2-mods" (map (m: {
+        name = m.filename;
+        path = pkgs.fetchurl {
+          url = m.url;
+          sha256 = m.sha256;
+        };
+      }) modsLockData);
+
+      # --- Fichiers de config fournis par le pack (dossier overrides/ du zip CurseForge) ---
+      craftoriaOverrides = ./craftoria2-overrides;
+
+      # --- Le package du serveur ---
+      neoforgeServerPackage = pkgs.stdenv.mkDerivation {
+        pname = "craftoria2-neoforge-server";
+        version = neoforgeVersion;
 
         dontUnpack = true;
-
         nativeBuildInputs = [ pkgs.makeWrapper ];
 
         installPhase = ''
-          mkdir -p $out/share/minecraft-fabric-server
-          cp ${fabricServerLauncher} $out/share/minecraft-fabric-server/fabric-server-launcher.jar
+          mkdir -p $out/share/craftoria2-server
+          cp ${neoforgeInstaller} $out/share/craftoria2-server/neoforge-installer.jar
+          ln -s ${modsDir} $out/share/craftoria2-server/mods-store
+          ln -s ${craftoriaOverrides} $out/share/craftoria2-server/overrides-store
+
+          cat > $out/share/craftoria2-server/start.sh <<SCRIPT
+          #!/usr/bin/env bash
+          set -euo pipefail
+
+          SERVER_SHARE="$out/share/craftoria2-server"
+
+          if [ ! -d "libraries" ]; then
+            echo "[craftoria2] Installation de NeoForge..."
+            java -jar "\$SERVER_SHARE/neoforge-installer.jar" --installServer
+          fi
+
+          echo "[craftoria2] Synchronisation des overrides..."
+          rsync -a --ignore-existing "\$SERVER_SHARE/overrides-store/" ./
+
+          rm -rf mods
+          ln -s "\$SERVER_SHARE/mods-store" mods
+
+          if [ -f user_jvm_args.txt ] && ! grep -q "Xmx" user_jvm_args.txt; then
+            echo "-Xms${craftoriaMinMemory} -Xmx${craftoriaMaxMemory}" >> user_jvm_args.txt
+          fi
+
+          exec bash run.sh nogui
+          SCRIPT
+          chmod +x $out/share/craftoria2-server/start.sh
 
           mkdir -p $out/bin
-          makeWrapper ${jdkPackage}/bin/java $out/bin/minecraft-fabric-server \
-            --add-flags "-Xms${minMemory} -Xmx${maxMemory} -jar $out/share/minecraft-fabric-server/fabric-server-launcher.jar nogui"
+          makeWrapper $out/share/craftoria2-server/start.sh $out/bin/craftoria2-server \
+            --prefix PATH : ${pkgs.lib.makeBinPath [ jdkPackage pkgs.rsync pkgs.bash pkgs.coreutils ]}
         '';
 
-        meta.mainProgram = "minecraft-fabric-server";
+        meta.mainProgram = "craftoria2-server";
       };
     in
     {
-       packages.${system}.default = minecraftServerPackage;
+      packages.${system}.default = neoforgeServerPackage;
 
-       apps.${system}.default = {
-         type = "app";
-         program = "${minecraftServerPackage}/bin/minecraft-fabric-server";
-       };
+      # Exposé séparément, utile pour tester juste l'assemblage des mods (nix build .#craftoriaMods)
+      packages.${system}.craftoriaMods = modsDir;
 
-       devShells.${system}.default = pkgs.mkShell {
-         buildInputs = [
-           jdkPackage
-           pkgs.curl
-           pkgs.jq
-	   pkgs.mcrcon
-         ];
+      apps.${system}.default = {
+        type = "app";
+        program = "${neoforgeServerPackage}/bin/craftoria2-server";
+      };
 
-         shellHook = ''
-           echo "Environnement Minecraft Fabric prêt."
-           echo "Version Minecraft ciblée : ${minecraftVersion}"
-           java -version
-         '';
-       };
+      devShells.${system}.default = pkgs.mkShell {
+        buildInputs = [ jdkPackage pkgs.curl pkgs.jq pkgs.mcrcon pkgs.rsync ];
+        shellHook = ''
+          echo "Environnement Craftoria 2 (NeoForge) prêt."
+          echo "Minecraft : ${minecraftVersion} | NeoForge : ${neoforgeVersion}"
+          java -version
+        '';
+      };
     };
 }

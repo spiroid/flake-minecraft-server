@@ -1,0 +1,236 @@
+{
+  id: "3188AC6C440F7520",
+  group: "",
+  order_index: 0,
+  icon: {
+    id: "minecraft:wooden_pickaxe",
+    count: 1,
+  },
+  filename: "getting_started",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  autofocus_id: "78EDBDED3BFEC145",
+  quests: [
+    {
+      icon: {
+        id: "craftoria:craftoria",
+        count: 1,
+      },
+      x: 0.0,
+      y: -2.25,
+      size: 1.5,
+      id: "78EDBDED3BFEC145",
+      tasks: [
+        {
+          id: "41BA785802B6F35E",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "6ED683453DE6CF40",
+          type: "item",
+          item: {
+            id: "minecraft:stick",
+            count: 1,
+          },
+          count: 8,
+        },
+        {
+          id: "07B69F2DC2F0BB73",
+          type: "item",
+          item: {
+            id: "minecraft:apple",
+            count: 1,
+          },
+          count: 16,
+        },
+        {
+          id: "69A50E4B984AF9AC",
+          type: "item",
+          item: {
+            id: "minecraft:chest",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:globe_banner_pattern",
+        count: 1,
+      },
+      x: 2.5,
+      y: -0.5,
+      dependencies: [
+        "78EDBDED3BFEC145",
+      ],
+      id: "2F9560A5281DCDFD",
+      tasks: [
+        {
+          id: "160306663D203B48",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "justdirethings:eclipsealloy_pickaxe",
+        count: 1,
+        components: {
+          "justdirethings:forge_energy": 500000,
+        },
+      },
+      x: 1.5,
+      y: 0.5,
+      dependencies: [
+        "78EDBDED3BFEC145",
+      ],
+      id: "2BF835F8F73E8F06",
+      tasks: [
+        {
+          id: "04FBCF96BB8F176A",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "ae2:blank_pattern",
+        count: 1,
+      },
+      x: 0.0,
+      y: 1.0,
+      dependencies: [
+        "78EDBDED3BFEC145",
+      ],
+      id: "54EDB1B00E985AD4",
+      tasks: [
+        {
+          id: "63DAD8D3277DA248",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "artifacts:superstitious_hat",
+        count: 1,
+      },
+      x: -1.5,
+      y: 0.5,
+      dependencies: [
+        "78EDBDED3BFEC145",
+      ],
+      id: "2CB005B413D2B889",
+      tasks: [
+        {
+          id: "0339C2D373170BE2",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:flowering_azalea_leaves",
+        count: 1,
+      },
+      x: -3.0,
+      y: -2.0,
+      dependencies: [
+        "78EDBDED3BFEC145",
+      ],
+      id: "35885A1220BB34FC",
+      tasks: [
+        {
+          id: "4046229AF35778A3",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "01EA74B0DEA01464",
+          type: "item",
+          item: {
+            id: "eclipticseasons:season_sensor",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:paper",
+        count: 1,
+      },
+      x: -2.5,
+      y: -0.5,
+      dependencies: [
+        "78EDBDED3BFEC145",
+      ],
+      id: "42F50CA00F913A46",
+      tasks: [
+        {
+          id: "13B903DFDCAB1CD3",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "apotheosis:gem",
+        count: 1,
+        components: {
+          "apotheosis:gem": "apotheosis:the_nether/blood_lord",
+          "apotheosis:purity": "flawed",
+        },
+      },
+      x: 3.0,
+      y: -2.0,
+      dependencies: [
+        "78EDBDED3BFEC145",
+      ],
+      id: "473F20C25AAAF017",
+      tasks: [
+        {
+          id: "570D439C4AC9F64C",
+          type: "checkmark",
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+    {
+      x: 0.0,
+      y: -13.75,
+      width: 1.0,
+      height: 1.0,
+      rotation: 0.0,
+      image: "ftbquests:textures/gui/background_white.png",
+      alpha: 1,
+      id: "591EF811B2124AA3",
+    },
+    {
+      x: 0.0,
+      y: 14.5,
+      width: 1.0,
+      height: 1.0,
+      rotation: 0.0,
+      image: "ftbquests:textures/shapes/circle/shape.png",
+      color: 0,
+      id: "4EB76EE3AEF95DF7",
+    },
+    {
+      x: 0.0,
+      y: -5.0,
+      width: 10.0,
+      height: 5.0,
+      rotation: 0.0,
+      image: "ftbquests:textures/gui/craftoria_logo.png",
+      id: "58DFADC601058EB2",
+    },
+  ],
+}

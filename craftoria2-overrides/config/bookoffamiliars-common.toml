@@ -1,0 +1,22 @@
+#Maximum number of familiars a player can store.
+#WARNING: Higher values may cause performance issues, especially on servers.
+# Default: 10
+# Range: 1 ~ 100
+maxFamiliars = 10
+#List of entity types that cannot be stored. Format: ["minecraft:wolf", "minecraft:cat"]
+entityBlacklist = []
+#List of additional entity types that can be stored beyond the default tamed entities.
+#Format: ["minecraft:cow", "minecraft:sheep"]
+entityWhitelist = []
+#Cooldown in minutes before a released familiar returns to the book after death
+# Default: 20
+# Range: 0 ~ 1440
+resurrectionCooldownMinutes = 20
+#Experience levels required to skip the resurrection cooldown.
+# Default: 5
+# Range: 0 ~ 100
+resurrectionXpCost = 5
+#Automatically remove familiars from the book if their mod is no longer installed.
+autoRemoveInvalidFamiliars = false
+#Enable the resurrection system. If disabled, familiars will not return to the book after death
+enableResurrection = true

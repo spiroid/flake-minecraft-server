@@ -1,0 +1,1012 @@
+[
+  {
+    "url": "https://edge.forgecdn.net/files/8177/588/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+    "filename": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+    "sha256": "0qq5qh25dgiwk8nncpk9vfgl3mjncvhnrc8mdid45lszrcc8rx4z"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8226/533/EclipticSeasons-Bundles-0.17.2.1.jar",
+    "filename": "EclipticSeasons-Bundles-0.17.2.1.jar",
+    "sha256": "00a5abga5wlh70p11n2jyisvbmzqr854p9vdwgrm0055gm6dpqm1"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8216/931/utilitarian-26.1.2-0.22.0.jar",
+    "filename": "utilitarian-26.1.2-0.22.0.jar",
+    "sha256": "1sc07hk9i3mjcpfz5iyh9ckax5vnad2i0lq5damn9b0pz155q8ss"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8269/745/AttributeFix-neoforge-MC26.1.2-26.1.2.2.jar",
+    "filename": "AttributeFix-neoforge-MC26.1.2-26.1.2.2.jar",
+    "sha256": "1pf3xbgspqxlq0ysiydva9llqi1wwjch4am786l1497gksh8w8lr"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7976/888/AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+    "filename": "AmbientSounds_NEOFORGE_v6.3.6_mc26.1.2.jar",
+    "sha256": "0krwypzfwwblz5h944rq0drijpw1yr021kc1lpy7m8sd17k414l7"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7886/369/t_and_t-fabric-neoforge-1.13.11.jar",
+    "filename": "t_and_t-fabric-neoforge-1.13.11.jar",
+    "sha256": "1gpq0p65pkhkir9y297pknbbivcmsjq6imxpy813n47nrwc8zcqk"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8224/767/chisel-3.0.12.jar",
+    "filename": "chisel-3.0.12.jar",
+    "sha256": "1mk341f78y4rvw6i39n4yvhz7rxn67vajzgmv66laqllk11kq8mn"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8251/41/FastSuite-26.1.2-7.0.0.jar",
+    "filename": "FastSuite-26.1.2-7.0.0.jar",
+    "sha256": "1n5qissgpxnsijpfmfpvi24v8m7cba2mjk9l45zjn56gyifvn3x1"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7947/547/CoffeeGUI_JustTheHotbar_v03.zip",
+    "filename": "CoffeeGUI_JustTheHotbar_v03.zip",
+    "sha256": "0zik6kk39phkb4793662qhqdg5flcbnjbxax91dhl0szr0c1wd6w"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8236/724/polylib-neoforge-26.1.2-2.0.8.jar",
+    "filename": "polylib-neoforge-26.1.2-2.0.8.jar",
+    "sha256": "0hjspc49fa4di9qir8vc3bp382x9h9172h5yi33q8aq9jai0qwb5"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7966/706/JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar",
+    "filename": "JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar",
+    "sha256": "04lz86d5y46rxqlz783a81czhcl0827wwila5y00xhpmxr13445h"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7808/101/PingHUD-5.0.jar",
+    "filename": "PingHUD-5.0.jar",
+    "sha256": "1ps00cnp6m6sfz8476bb8ghb212inlglka0anw4p2gf6rhkmykyi"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8281/991/Jade-mc26.1-NeoForge-26.1.5.jar",
+    "filename": "Jade-mc26.1-NeoForge-26.1.5.jar",
+    "sha256": "0dv8pn7rrra73vc8dd5ia59h9y05rmx5vsw26wl3pnnw6jpzqc3j"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/652/ecliptic-seasons-serene-api-bridge-26.1-neoforge-21.11.0.4-patch2.jar",
+    "filename": "ecliptic-seasons-serene-api-bridge-26.1-neoforge-21.11.0.4-patch2.jar",
+    "sha256": "0hsi5hs9iij3ajwg3i22pywxr9v8dqwlagr62v5xsp11mz0d7llc"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7878/374/AI-Improvements-26.1.1-0.5.4.jar",
+    "filename": "AI-Improvements-26.1.1-0.5.4.jar",
+    "sha256": "0kmzvlkbgg3njldxc4a2cja4zw1qw3222fy8bqp0k6agxh4bfyjd"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8010/963/baguettelib-26.1.2-NeoForge-2.0.4.jar",
+    "filename": "baguettelib-26.1.2-NeoForge-2.0.4.jar",
+    "sha256": "0xyfl73xnign4gi27c295m7g9sqhnvb36sgksp2h7qjfsfsfnlqf"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8160/272/ftb-library-neoforge-26.1.2.6.jar",
+    "filename": "ftb-library-neoforge-26.1.2.6.jar",
+    "sha256": "0phwc1wdn75dr85xpdzzfpg0q4hbh67dkn7vk4yfnpcfh2yx9mm8"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7986/696/nanite-library-neoforge-26.1.2.6.jar",
+    "filename": "nanite-library-neoforge-26.1.2.6.jar",
+    "sha256": "0rb31xzpi9ar9rk1cw3gwshbvkxl9pnwxn6rcysmqdlvc1qmivvl"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8019/404/craftingtweaks-neoforge-26.1.2-26.1.2.1.jar",
+    "filename": "craftingtweaks-neoforge-26.1.2-26.1.2.1.jar",
+    "sha256": "1r3f6734xczv9p31fc943fa29c3a131jnbr66sdwl1f071nxi8rq"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8291/975/EclipticSeasons-26.1.2-neoforge-0.13.8.2.jar",
+    "filename": "EclipticSeasons-26.1.2-neoforge-0.13.8.2.jar",
+    "sha256": "1m2qqxkrv77s9wfzkq2rl5qxdnkay178s8msc8px599ma5f3z70k"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7961/578/EdivadLib-26.1.2-4.0.1.jar",
+    "filename": "EdivadLib-26.1.2-4.0.1.jar",
+    "sha256": "1wqcax67xxba5r7g2q2xc2l1gx8z8g3gfdhkw6a405ghsxlx3s5n"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8262/267/CrashAssistant-neoforge-26.1-1.11.10.jar",
+    "filename": "CrashAssistant-neoforge-26.1-1.11.10.jar",
+    "sha256": "1xb23370v3n6dh4c4mdjd5a9pvbm1x11qdnbyhpn5nr31zmfxq8b"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8080/581/camol-26.1.2-0.4.1.jar",
+    "filename": "camol-26.1.2-0.4.1.jar",
+    "sha256": "04mp346fywshxpcr0cl2xqc3gn39p9c56blzh14wh1ipadi4hj92"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7921/450/ftb-ranks-neoforge-26.1.2.2.jar",
+    "filename": "ftb-ranks-neoforge-26.1.2.2.jar",
+    "sha256": "1g049zbim63svagprj9ll0l22c7nd2lz1jkkj9dm8ywhap83s9wj"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7937/982/epherolib-neoforge-26.1-1.3.0.jar",
+    "filename": "epherolib-neoforge-26.1-1.3.0.jar",
+    "sha256": "0s9hfrrq4apx6wyna1y00qvz90w6d07hd4rwjr8s4v65kyrxi790"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8004/596/PickUpNotifier-v26.1.1-mc26.1.x-NeoForge.jar",
+    "filename": "PickUpNotifier-v26.1.1-mc26.1.x-NeoForge.jar",
+    "sha256": "0dqnhm7gcnwdsv89v0qx9p2xwmpi5alg91k66pr8b8hm99yp84mg"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8249/25/Placebo-26.1.2-10.0.1.jar",
+    "filename": "Placebo-26.1.2-10.0.1.jar",
+    "sha256": "1vg5n64gyc0ph0xhzfqnhyszi5w95nw1prz6vjppg6ky8m8v2axn"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7812/877/netherportalfix-neoforge-26.1-26.1.0.1.jar",
+    "filename": "netherportalfix-neoforge-26.1-26.1.0.1.jar",
+    "sha256": "0xrmmhw4c7fr6851ap6p2fs14a7glr12i2qi5n6drpqb8k7rly5m"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8249/940/itemrestrictions-neoforge-20.1.2.jar",
+    "filename": "itemrestrictions-neoforge-20.1.2.jar",
+    "sha256": "0h6jjk65fw9p79953596z4p78kq2kjnsr2c2vbny536hg4zlg1hb"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7974/152/WaystonesTeleportPets-1.2-neoforge-26.1.2.jar",
+    "filename": "WaystonesTeleportPets-1.2-neoforge-26.1.2.jar",
+    "sha256": "0s1gvw7z7xp8jfjj0hfl7rpsyjs95pz2606ykj3qsm1f1im2i8da"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7806/39/ferritecore-9.0.0-neoforge.jar",
+    "filename": "ferritecore-9.0.0-neoforge.jar",
+    "sha256": "0fdmb78mfv7nkh7icwnkvn98bm9azymnhjrs1liavxyan6njsad3"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8236/325/AdvancedAE-26.1.3-alpha.jar",
+    "filename": "AdvancedAE-26.1.3-alpha.jar",
+    "sha256": "0hjpjm4ij50gh9gl0yqpkps61bbrkma9bjndlgjr5gh8gzp9jn7d"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8293/295/voicechat-neoforge-2.6.20%2b26.1.2.jar",
+    "filename": "voicechat-neoforge-2.6.20%2b26.1.2.jar",
+    "sha256": "1qja2h73vq3cdv30waxfji6db8hp045cyz6w3q91nsnd4s1zlxhk"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8119/759/fancytoasts-neoforge-26.1.x-1.4.7.jar",
+    "filename": "fancytoasts-neoforge-26.1.x-1.4.7.jar",
+    "sha256": "13dwsdpj21lqxj2zw61b10lzl69z0fbsn6q31zd6l2spqa7x5cpk"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/964/mcw-windows-2.4.2-mc26.1neoforge.jar",
+    "filename": "mcw-windows-2.4.2-mc26.1neoforge.jar",
+    "sha256": "0qa9g9mjnhy1kh4v08n43vzq3ms2x6v93hhwr7920gkaw2b8brvw"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8286/50/waystones-neoforge-26.1.2-26.1.2.6.jar",
+    "filename": "waystones-neoforge-26.1.2-26.1.2.6.jar",
+    "sha256": "0g2kv2i29m6k960pjwbawh8zgjlkfbj9l30d3jpz2bbmf2dq6d43"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8260/644/ctm-26.1.2.2.jar",
+    "filename": "ctm-26.1.2.2.jar",
+    "sha256": "1n0bl6vv5h48qcyzi54likyicczh2aii9pfsdjkqx6jddhwias3q"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7619/105/Visual%20Titles%201.3.zip",
+    "filename": "Visual%20Titles%201.3.zip",
+    "sha256": "12sravl7w79bkrg6kn0x5f24paiy8cjbiw4qik86f5y3qj5xa23s"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7947/176/CoffeeGUI_1.20.2-26.1_release_v2.1.1.zip",
+    "filename": "CoffeeGUI_1.20.2-26.1_release_v2.1.1.zip",
+    "sha256": "09lphjxingvlfxx9f5vh5f0b96f07cdz9gw36dawpw0cmw1r3d2y"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8271/951/collective-26.1.2-8.29.jar",
+    "filename": "collective-26.1.2-8.29.jar",
+    "sha256": "18q08fdbn94lvjh3dliv2r8l4anbs4dnqj8z4i1iyjkq7gal8npf"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8284/338/ExtendedAE-26.1-1.0.2-neoforge.jar",
+    "filename": "ExtendedAE-26.1-1.0.2-neoforge.jar",
+    "sha256": "11s5i6n1jksnakipvvc9hz9bbrmx2dvriw6jv7kgm3zjq7iy1jaw"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7999/323/FA%2bSpiders-v2.2.zip",
+    "filename": "FA%2bSpiders-v2.2.zip",
+    "sha256": "03hgn1wpf7za8vap5lygqjn1djp4xx02fj9ldq9bzvwhmcmz5fis"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/970/mcw-trapdoors-1.1.5-mc26.1neoforge.jar",
+    "filename": "mcw-trapdoors-1.1.5-mc26.1neoforge.jar",
+    "sha256": "1zcfmncvn5paypka6r3ndyfjr9nqxjr6vhpml6k4p7d3pwdysj8w"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8036/435/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+    "filename": "LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+    "sha256": "0bp7ikz0jf1jgj7i5hgnm9zv2s12fk26b9cyh16ahwr6j3wi4lq1"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8280/350/tectonic-3.0.25-neoforge-26.1.jar",
+    "filename": "tectonic-3.0.25-neoforge-26.1.jar",
+    "sha256": "0vlyvsf6cqflfxndnbbmkqxwxzjjs68p8h5554b0mgvrlynd42ib"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7808/597/NaturesCompass-26.1-3.3.0-neoforge.jar",
+    "filename": "NaturesCompass-26.1-3.3.0-neoforge.jar",
+    "sha256": "1mbrpc5g7765vdg1r2674mldgq08y0hzllsd95shn8s0gk6cqn5a"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8269/785/PrickleMC-neoforge-MC26.1.2-26.1.2.5.jar",
+    "filename": "PrickleMC-neoforge-MC26.1.2-26.1.2.5.jar",
+    "sha256": "1srbq2jkn0lgls1ripbj2r45vp43xfax6k1zglydxjj2p3sqwn6p"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8151/890/sounds-2.5.0%2blts%2b26.1.2-neoforge.jar",
+    "filename": "sounds-2.5.0%2blts%2b26.1.2-neoforge.jar",
+    "sha256": "11cb3kn1xpmyy6pc31v9mxgaw4kakgmlv6dv8vd880yh67xvfjik"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8258/744/logisticsnetworks-26.1.2-1.8.3.jar",
+    "filename": "logisticsnetworks-26.1.2-1.8.3.jar",
+    "sha256": "0a8hi59g2baiz670hfgr0w3hm17pnrphplbvlanqi7h8a8rg97h1"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8030/110/laserio-1.10.2.jar",
+    "filename": "laserio-1.10.2.jar",
+    "sha256": "0rsfandmhxvb5rp5l1f8lk4xn56fpvhd83ipxqcrn38qa4mxwgm2"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8171/43/ApothicSpawners-26.1.2-2.0.0.jar",
+    "filename": "ApothicSpawners-26.1.2-2.0.0.jar",
+    "sha256": "13g6w33805xlsiwim6p0v7synw2ycy8fpdhj98qiq4mi2dlbjjr2"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7923/31/crashutilities-10.0.1.jar",
+    "filename": "crashutilities-10.0.1.jar",
+    "sha256": "03cii8j60cp82kypgwws9hvx9kmxy7fddiq2n1gfdl6grbap9c54"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8218/522/EternalNether-v26.1.4-mc26.1.x-NeoForge.jar",
+    "filename": "EternalNether-v26.1.4-mc26.1.x-NeoForge.jar",
+    "sha256": "14i46zq1r4bq0dydvyw290wqgmmgw8zwrf3b742af2bcwyigfrfq"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8132/173/aeinfinitybooster-neoforge-26.1.2-1.0.0.57.jar",
+    "filename": "aeinfinitybooster-neoforge-26.1.2-1.0.0.57.jar",
+    "sha256": "15dpqgbl7g18nb02k3cjh6kk1c3flbip5mmidrvf9qlqcfs0cs1k"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7976/435/farmingforblockheads-neoforge-26.1.2-26.1.2.1.jar",
+    "filename": "farmingforblockheads-neoforge-26.1.2-26.1.2.1.jar",
+    "sha256": "0724pd7jsgj4k801acmpi2pgl2gb38r3x8dky2hq91qkn3mxcabp"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7866/814/chatanimation-neoforge-26.1-1.1.3.jar",
+    "filename": "chatanimation-neoforge-26.1-1.1.3.jar",
+    "sha256": "1jp3rqci4535b4rs7s6lhsmgk15y714syr16ddbm0im1f9n85873"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8049/310/ConstructionSticks-26.1.2-3.1.3.jar",
+    "filename": "ConstructionSticks-26.1.2-3.1.3.jar",
+    "sha256": "11nnmyb8czni8w6g88is3dm5z7acnn321c54xmqal5dvx82d5k0f"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7817/583/cloth-config-26.1.154.jar",
+    "filename": "cloth-config-26.1.154.jar",
+    "sha256": "1n6rxhky0m1d4i6vv00z1052kvvjy7pdvqhqpmwd9npy962pq56r"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/923/mcw-bridges-3.1.2-mc26.1neoforge.jar",
+    "filename": "mcw-bridges-3.1.2-mc26.1neoforge.jar",
+    "sha256": "142caw2150zx9854gvkichlab6xsr2sbmmh60jzgnirna1n3b6sl"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8294/892/waveycapes-neoforge-1.10.2-mc26.1.2.jar",
+    "filename": "waveycapes-neoforge-1.10.2-mc26.1.2.jar",
+    "sha256": "1sb5iqf1l81anb1g4zkd9zq6ri62vh6vfwiwimk3fn6h95wj66iz"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8260/968/lithium-neoforge-0.24.6%2bmc26.1.2.jar",
+    "filename": "lithium-neoforge-0.24.6%2bmc26.1.2.jar",
+    "sha256": "0g5dwz6csd7i1g0zx8fpsldqp7m6c8apvr6frb24gprpzj7n27zx"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8236/258/OpenTogether-v26.1.0-mc26.1.x-NeoForge.jar",
+    "filename": "OpenTogether-v26.1.0-mc26.1.x-NeoForge.jar",
+    "sha256": "121jx5i7qiqhg0576yj0gfwpmcxfb710ipvnj6d3dypbhqvx89g9"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8218/682/fwa%2b26.1.2-neoforge-1.2.30.jar",
+    "filename": "fwa%2b26.1.2-neoforge-1.2.30.jar",
+    "sha256": "1b20b43py33alis5hqq2lg8x1jsdxd9kwc396w9icvzngdpfg8db"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7931/619/jumpboat-26.1.2-1.0.6.jar",
+    "filename": "jumpboat-26.1.2-1.0.6.jar",
+    "sha256": "1mj47wsqfcqcdg6ymsfcdnr83ffkmz214nkyfsvzgv15n356qwnp"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8173/380/disconnect-packet-fix-neoforge-2.1.1.jar",
+    "filename": "disconnect-packet-fix-neoforge-2.1.1.jar",
+    "sha256": "0rcih7ihiym4v8h854v0cgbpxypm4y6dqcz6s4r35mp4mrp2axlv"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/972/mcw-roofs-2.3.2-mc26.1neoforge.jar",
+    "filename": "mcw-roofs-2.3.2-mc26.1neoforge.jar",
+    "sha256": "03vh0kp29kl6y0j4lgx4zj581rx4k8mg54pz37wk00rwmfzwsjxs"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7913/641/geckolib-neoforge-26.1.2-5.5.1.jar",
+    "filename": "geckolib-neoforge-26.1.2-5.5.1.jar",
+    "sha256": "06rsc2fcgd2s8y8nglbj6gi7wnywjz5x2842qdb5a8j8zvn9w7qx"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8192/909/enderio-9.0.5-alpha.jar",
+    "filename": "enderio-9.0.5-alpha.jar",
+    "sha256": "0a8r9vsjxkqx6gwdrvlg8gpm5rfh33gmz36yp3c7kcqdpj5xi1ag"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/974/mcw-paths-1.1.1-mc26.1neoforge.jar",
+    "filename": "mcw-paths-1.1.1-mc26.1neoforge.jar",
+    "sha256": "1lq1rdk09qc457ihslh8qfzm7vl6547rw8ndh3zlg66piv6d345n"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7965/669/Boss%20Bars%20Reforged%20v1.2.zip",
+    "filename": "Boss%20Bars%20Reforged%20v1.2.zip",
+    "sha256": "1fnihlnssrcxs1l9fbq8qx1vnr4sg61pfzjw3zx1n86x1nqvc1j3"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8275/631/spark-1.10.173-neoforge.jar",
+    "filename": "spark-1.10.173-neoforge.jar",
+    "sha256": "1c72wm4w3vnh4qf6fl26zqy3k5b3wkl4s497n8hfnzxlmc53w6z8"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8078/360/shrink-neoforge-26.1.2-2.1.1.jar",
+    "filename": "shrink-neoforge-26.1.2-2.1.1.jar",
+    "sha256": "1r28grhni8sbclyn04m2vni92zpwwms2xrfvwznphyijlah0iifj"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7961/622/DimStorage-26.1.2-10.0.1.jar",
+    "filename": "DimStorage-26.1.2-10.0.1.jar",
+    "sha256": "04bm7jws089wy608b998lm9m9zkmzl9bd6jwcb81srqgwh7qr076"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7901/122/ImmediatelyFast-NeoForge-1.15.2%2b26.1.2.jar",
+    "filename": "ImmediatelyFast-NeoForge-1.15.2%2b26.1.2.jar",
+    "sha256": "1bw40jpxjl7r3448dmwv6z24z4qqszfgr4lcmafraf0j77qbyjnx"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8182/592/ApothicAttributes-26.1.2-3.0.1.jar",
+    "filename": "ApothicAttributes-26.1.2-3.0.1.jar",
+    "sha256": "044xi5k1xgz44s67g1f2sq9cnbz1iyhaww3pp3p23wrlaa71f3nq"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8294/980/c2me-neoforge-mc26.1.2-0.4.0-alpha.0.91.jar",
+    "filename": "c2me-neoforge-mc26.1.2-0.4.0-alpha.0.91.jar",
+    "sha256": "178vh3q9qdk65xhc29hv46di064xfnwppzgl4ylp1n1qva0sz12v"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7967/307/ToolsOnMyBack-1.0.2%2b26.1%2bneoforge.jar",
+    "filename": "ToolsOnMyBack-1.0.2%2b26.1%2bneoforge.jar",
+    "sha256": "1zmixl0j40ik49ax3f5z017aj7nlv2jaakm50w7x4fnkspvkp7m3"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8269/733/MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar",
+    "filename": "MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar",
+    "sha256": "1ymhmmf3whcz56yqc8ch3jpkk3rl9y83zygq8fnrkn98wvr7w2dy"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8287/619/ae2importexportcard-26.1.2-2.0.1.jar",
+    "filename": "ae2importexportcard-26.1.2-2.0.1.jar",
+    "sha256": "1l3kj2r2hhsbhxm4n9fvyf3clx6fhp55ix9wwi2xx4swqi16wcvq"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8196/173/Glodium-26.1-1.2-neoforge.jar",
+    "filename": "Glodium-26.1-1.2-neoforge.jar",
+    "sha256": "01x1sjqmjirp8sqmqg3rgfsd1dqyrrasqw8vvmn67wvnryc6hasj"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8058/232/Fine%20Armoury%20v1.8.zip",
+    "filename": "Fine%20Armoury%20v1.8.zip",
+    "sha256": "1ncvzhjvx6kx3z4v6fbscy3xcrznclfbbxjjmwdmfy1kv7iwzqfh"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8063/579/entity_model_features-3.2.4-26.1-neoforge.jar",
+    "filename": "entity_model_features-3.2.4-26.1-neoforge.jar",
+    "sha256": "0zqdbhhr70xm9k5km4086mhvrnvz0mgbjgy30901l95f9v99q62x"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8201/379/leaderboards-26.1.2-NeoForge-2.0.4.jar",
+    "filename": "leaderboards-26.1.2-NeoForge-2.0.4.jar",
+    "sha256": "186kh3g13b0ncp93h5yw0ikaq0082v8qifypijn0srfc1nipz264"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8269/760/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.5.jar",
+    "filename": "EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.5.jar",
+    "sha256": "0p2my7s1gvgi0hjq3x5q6zcm09cis8z12i63qq10dp4d36ygcbfg"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8046/313/TerraBlender-neoforge-26.1.2-26.1.2.0.2.jar",
+    "filename": "TerraBlender-neoforge-26.1.2-26.1.2.0.2.jar",
+    "sha256": "0ziw6yb5q5k1qw0560ijwx7rblybz4vbkjzg3xzxzvlgqbkrd4jz"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8021/692/BHMenu-NeoForge-26.1-2.4.4.jar",
+    "filename": "BHMenu-NeoForge-26.1-2.4.4.jar",
+    "sha256": "0qnnzp1wv5s8s7njrw3488yzx2ma4gn38vc9xk6j24ic7fmnng7h"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8255/528/modernfix-neoforge-5.27.17%2bmc26.1.2.jar",
+    "filename": "modernfix-neoforge-5.27.17%2bmc26.1.2.jar",
+    "sha256": "0c5xvi3dvdvkizmxqn6r0q8iffzjayjjni3dbr682sgh97sgqj11"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7935/864/craftingstationjei-26.1.1-NeoForge-2.1.2.jar",
+    "filename": "craftingstationjei-26.1.1-NeoForge-2.1.2.jar",
+    "sha256": "1ys7shlajb1gi4ay0fsdq637sdsql0i4miis3s2hk1x15qvyfdq6"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8109/770/GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar",
+    "filename": "GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar",
+    "sha256": "0477vp70kdypin10ldh54fxismsp7n24d6m2qfqqca7jrxq4wl4r"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8277/509/lootr-neoforge-26.1.2-1.22.37.111.jar",
+    "filename": "lootr-neoforge-26.1.2-1.22.37.111.jar",
+    "sha256": "18asczjm6d2hpbvsc6clli14kv4slf3kl72cjy1fd87sldqppkk6"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8294/186/occultism-26.1.2-neoforge-1.244.0.jar",
+    "filename": "occultism-26.1.2-neoforge-1.244.0.jar",
+    "sha256": "02vcb80nqnyl76fnhm9hg8wsrrd323xcxgxq3hp4wnqzzsr9ga7j"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8074/3/ftb-teams-neoforge-26.1.2.4.jar",
+    "filename": "ftb-teams-neoforge-26.1.2.4.jar",
+    "sha256": "033gqzx5zkc44rdqvp6rdf47drs80pa9damnri8x1fdvh3wpsiks"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/925/mcw-doors-1.1.5-mc26.1neoforge.jar",
+    "filename": "mcw-doors-1.1.5-mc26.1neoforge.jar",
+    "sha256": "1xbh91j9kdnwnbz2npppvvl8ml19ri11scip7avdjf15ank93bhp"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8249/91/Apotheosis-26.1.2-9.0.2.jar",
+    "filename": "Apotheosis-26.1.2-9.0.2.jar",
+    "sha256": "16a8jr5nmlw160am75kd282hpjvyhgd6gm4g5pd64lbnh6p0fq38"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8001/630/knot-neoforge-core-20.1.7.jar",
+    "filename": "knot-neoforge-core-20.1.7.jar",
+    "sha256": "0s6ag4b8j5b7wmhkgbx68bfi8hla854rsi87lpqr3gq3n35z4sk7"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7983/714/mechtrowel-1.3.1.jar",
+    "filename": "mechtrowel-1.3.1.jar",
+    "sha256": "12v2m6g8r5zly55l26r6s0w6krin3sdvb7kwmfkazg6298vml731"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8225/687/tesseract-api-neoforge-1.13.1-alpha-26.1.2.jar",
+    "filename": "tesseract-api-neoforge-1.13.1-alpha-26.1.2.jar",
+    "sha256": "0hjh3l2kvf9y3bbxpj6vr1sixf96jlhga29algbp33fnb9jjk09i"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7945/781/moredragoneggs-6.0.jar",
+    "filename": "moredragoneggs-6.0.jar",
+    "sha256": "0fw7b8qn0ln16gbamawvrlmlvkjqvhc0ba2vp35qh9ncqppmchl4"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8239/932/BiomesOPlenty-neoforge-26.1.2-26.1.2.0.21.jar",
+    "filename": "BiomesOPlenty-neoforge-26.1.2-26.1.2.0.21.jar",
+    "sha256": "03hgcv56mq4q3f3lqpvqiqa5lm7r9hc62faf3ns0fsmj5sy9ayjm"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8089/462/fancymenu_neoforge_3.9.1_MC_26.1.1-26.1.2.jar",
+    "filename": "fancymenu_neoforge_3.9.1_MC_26.1.1-26.1.2.jar",
+    "sha256": "08nv12mpx9i9c2rbv89vb3r49bdd98yivbg36agz745ppx1dz4an"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7884/707/getittogetherdrops-neoforge-26.1.1-1.5.jar",
+    "filename": "getittogetherdrops-neoforge-26.1.1-1.5.jar",
+    "sha256": "01rx85bq8r52s7rlzln524xnsbzl1fnwpzljdwn7msqzm1f0p77w"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8259/242/punchy-2.5.6-neoforge-26.1-26.1.1-26.1.2.jar",
+    "filename": "punchy-2.5.6-neoforge-26.1-26.1.1-26.1.2.jar",
+    "sha256": "0h5x8sygq2zlkfbfgw6pb2rkfwfgc70vzkx2i1z2gkwp8za6r94w"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8081/726/MakeUp-UltraFast-9.5a.zip",
+    "filename": "MakeUp-UltraFast-9.5a.zip",
+    "sha256": "0xf7gy20gqwfkc80ph9swxvhg0ln12h054lwypscr4qibpfiwgj3"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7964/119/buildinggadgets2-1.4.6.jar",
+    "filename": "buildinggadgets2-1.4.6.jar",
+    "sha256": "1jkjidcvb604sa4nrfs6g1v8h6rsp42sx0f5j9b7ip9dh8x2vh37"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8187/9/ftb-essentials-neoforge-26.1.2.4.jar",
+    "filename": "ftb-essentials-neoforge-26.1.2.4.jar",
+    "sha256": "10myf3f2cmgszj3c904zfam51x6xk3xklzjgddg0xs8b29yy04sr"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8292/136/jei-26.1.2-neoforge-29.6.2.38.jar",
+    "filename": "jei-26.1.2-neoforge-29.6.2.38.jar",
+    "sha256": "00azkg8hfiwwmp0qg786hclps45pr3j8afglz2n0whslxa7fm9dj"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7840/778/MouseTweaks-neoforge-mc26.1-2.31.jar",
+    "filename": "MouseTweaks-neoforge-mc26.1-2.31.jar",
+    "sha256": "0c6491z096qzr267p6qbxxihrqckkzm9d414kr6kc53gp5s3g4ml"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8230/855/open-parties-and-claims-neoforge-26.1.2-0.27.5.jar",
+    "filename": "open-parties-and-claims-neoforge-26.1.2-0.27.5.jar",
+    "sha256": "0zadcb81rf1dim5q7l9z3fqcjmnxs36z5l11vf5zfwghyf2f691b"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8199/1/Controlling-neoforge-26.1.2-26.1.2.4.jar",
+    "filename": "Controlling-neoforge-26.1.2-26.1.2.4.jar",
+    "sha256": "0l9z78dgs4a827315izghc2skm3nybm7nirggvbhk1ralwk94a0n"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8158/74/justenoughrecipesharing-neoforge-26.1.2-1.1.1.jar",
+    "filename": "justenoughrecipesharing-neoforge-26.1.2-1.1.1.jar",
+    "sha256": "0kk2q2j3f958awa80nyqpkjm4002mbhk471wd3aw3nfknjb0l8zg"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8249/43/GatewaysToEternity-26.1.2-6.0.1.jar",
+    "filename": "GatewaysToEternity-26.1.2-6.0.1.jar",
+    "sha256": "1pmvsjainknb39hzzabns8rfznjpp2lnbj8jnajsgggc5gyg63cr"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8204/880/guideme-26.1.12-beta.jar",
+    "filename": "guideme-26.1.12-beta.jar",
+    "sha256": "1kdjjia8braz6db47vbaccy8zalbvngax2wgnpdgaxm15c41r9ql"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/968/mcw-lights-1.1.5-mc26.1neoforge.jar",
+    "filename": "mcw-lights-1.1.5-mc26.1neoforge.jar",
+    "sha256": "0z5r5axnrdnkxjwv3wbi40awd7rqvgnvr5i7k3wh1xfkx2m2m749"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7958/434/SimpleDiscordRichPresence-neoforge-26.1.2.1.jar",
+    "filename": "SimpleDiscordRichPresence-neoforge-26.1.2.1.jar",
+    "sha256": "1pvrl1sm0lp4cjd2hxlgjk5ca0cdgyxl2ryddh58gz2dz1zvgc6m"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7854/681/FreshAnimations_v1.10.5.zip",
+    "filename": "FreshAnimations_v1.10.5.zip",
+    "sha256": "1vi8l3814z7iixv5y3f114z3il3x6p28nn8brcrin5vyjyi1g7yg"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8231/254/xaerominimap-neoforge-26.1.2-26.1.0.jar",
+    "filename": "xaerominimap-neoforge-26.1.2-26.1.0.jar",
+    "sha256": "093kmvwfl6b7yi6k6zk3kfsxnm5s50vqqxczawg2lmwy0sxbp704"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8174/614/chat_heads-1.2.4-neoforge-26.1.jar",
+    "filename": "chat_heads-1.2.4-neoforge-26.1.jar",
+    "sha256": "0ja01v9abxbshzsx8m9y3vrr4g2bak1lwpa8kwff4jhqawn52yxn"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7895/200/crafting_on_a_stick-neoforge-26.1-1.0.jar",
+    "filename": "crafting_on_a_stick-neoforge-26.1-1.0.jar",
+    "sha256": "1ss2n9hf4ix5bm96f71is9h2y1xpqw4x1dh11bd3ad4wrdzbw85i"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8186/66/epitaphs-2.1.2%2b26.1.2.jar",
+    "filename": "epitaphs-2.1.2%2b26.1.2.jar",
+    "sha256": "136nbf3ivainnp2zssj7v6qg5m7gnzs9vhz5zfqr9hmm7lgnl7yi"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8125/263/transmog-neoforge-1.8.0%2b26.1.jar",
+    "filename": "transmog-neoforge-1.8.0%2b26.1.jar",
+    "sha256": "19sbf26wb895pvcbhwkk1yrls19hscidsjccha3626pcvhd6l8vi"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8031/805/IllagerInvasion-v26.1.0-mc26.1.x-NeoForge.jar",
+    "filename": "IllagerInvasion-v26.1.0-mc26.1.x-NeoForge.jar",
+    "sha256": "1wk2h2k8xb6bkiwmjhhqm7mxdvx9kxdz1j3xrrrbyhkg4v05bbd6"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8017/163/enderio_endergy-9.0.1-alpha.jar",
+    "filename": "enderio_endergy-9.0.1-alpha.jar",
+    "sha256": "0psb968gld4n2qp5x69597fxlsr1zsr28avn9cqahyi7q0ss2kw3"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7867/946/iris-neoforge-1.10.9%2bmc26.1.1.jar",
+    "filename": "iris-neoforge-1.10.9%2bmc26.1.1.jar",
+    "sha256": "0z8djk0a682vn1cbvqlmrqc0gp6cazrcnyp6bns861c0xk8m9l0j"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8087/216/luminax-2.0.1%2b26.1.2.jar",
+    "filename": "luminax-2.0.1%2b26.1.2.jar",
+    "sha256": "0d7q6xzpn636hjbbn06kxrcnnx92yqpqwi905kgmg01m6kkc83sc"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8004/645/OverflowingBars-v26.1.0-mc26.1.x-NeoForge.jar",
+    "filename": "OverflowingBars-v26.1.0-mc26.1.x-NeoForge.jar",
+    "sha256": "1d5qagld1xx0f06k9zhzl1rvwc3j9bzkn3pc1f875qvka7spnw8h"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8147/422/shogi-neoforge-26.1.2-26.1.2.5.jar",
+    "filename": "shogi-neoforge-26.1.2-26.1.2.5.jar",
+    "sha256": "0faljxr8piqgd7fvq13p0kqzvwgi44qqydp1aakgpk023kbs0p4f"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8242/924/itempeek-mc26.1.2-1.1.3.jar",
+    "filename": "itempeek-mc26.1.2-1.1.3.jar",
+    "sha256": "0azl1adafzgij3q9s1ppzya0ji10zdvawbzw0b63na70202b5qpg"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8020/647/trade-cycling-neoforge-1.0.21%2b26.1.2.jar",
+    "filename": "trade-cycling-neoforge-1.0.21%2b26.1.2.jar",
+    "sha256": "1abqzhf213mrfbymcnvzly18qfkzzrn6zxz6bx9fz8mvvs4xv02k"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7854/456/appleskin-neoforge-mc26.1-3.0.9.jar",
+    "filename": "appleskin-neoforge-mc26.1-3.0.9.jar",
+    "sha256": "19jdmj63pfrq68waym4f76zkks82zsvg5nv8jljq81pa7pny3grj"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8294/443/neovitae-26.1.2-1.0.23.jar",
+    "filename": "neovitae-26.1.2-1.0.23.jar",
+    "sha256": "011ssrl7pvvd95s9fn3qy1ivr0a68v4p8mzcq57vgqcd6gkp9ci3"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7925/566/ftb-filter-system-neoforge-26.1.2.1.jar",
+    "filename": "ftb-filter-system-neoforge-26.1.2.1.jar",
+    "sha256": "0k389lvazxrii748zkcxz1713ncqqjm7zl5iyciilisj3ycg4g6b"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8229/127/crystalix-4.1.0%2b26.1.2.jar",
+    "filename": "crystalix-4.1.0%2b26.1.2.jar",
+    "sha256": "0aka0a9kpg7mapyni6s9irv9xdmiw77jrimvkahf89answjyjssa"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8286/28/inventoryessentials-neoforge-26.1.2-26.1.2.3.jar",
+    "filename": "inventoryessentials-neoforge-26.1.2-26.1.2.3.jar",
+    "sha256": "1npivnhqhbmxvx4x4jyzs5dndrm01w5cjsnjq3cxxzw8yqrjdwrp"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8169/69/AdvancedLootInfo-neoforge-26.1.2-1.12.0.jar",
+    "filename": "AdvancedLootInfo-neoforge-26.1.2-1.12.0.jar",
+    "sha256": "0qz3qjlv2jk760sqalp92l021iy6m7plxzrxv6j0qw1wk48x13d4"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8230/145/Brush%2bJuice-5.4.0.zip",
+    "filename": "Brush%2bJuice-5.4.0.zip",
+    "sha256": "1rl2zrjfn79vrcilxkvjqirfh7h7kbs5v9hr6mx13pzql287zmsl"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7830/638/elevatorid-neoforge-26.1-1.16.2.jar",
+    "filename": "elevatorid-neoforge-26.1-1.16.2.jar",
+    "sha256": "1b8v7dnm9aq618q5avf7w7rsg3q2793n339na6h5yncw03mscrzk"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8225/843/little-big-redstone-1.9.1-alpha-26.1.2.jar",
+    "filename": "little-big-redstone-1.9.1-alpha-26.1.2.jar",
+    "sha256": "0ss49gnfy57hy25avbvrn8b4b8sq8mkz8cqys89937lr9znlbnfg"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8212/221/beautifiedchatserver-26.1.2-3.2.jar",
+    "filename": "beautifiedchatserver-26.1.2-3.2.jar",
+    "sha256": "1cdzzm8cv6a4h3i6ryi51kjpwalfaffsczb4im2vx1cgc5swjdk3"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8268/319/pipe_connector-neoforge-0.6.5.jar",
+    "filename": "pipe_connector-neoforge-0.6.5.jar",
+    "sha256": "08q65zrfxncliygp4pb3i8i1lk88mhh2dmvh3wvd92m4bvv7kbsc"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8044/616/uilib-neoforge-20.1.3.jar",
+    "filename": "uilib-neoforge-20.1.3.jar",
+    "sha256": "1q5gx78rvbgcgh3i295z0lr8p6scyxkjl1wbc2p26dnh2p7y8856"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7943/161/catalogue-neoforge-26.1.2-1.12.3.jar",
+    "filename": "catalogue-neoforge-26.1.2-1.12.3.jar",
+    "sha256": "1ch8v2r0b5kg8i2j8yi4n2c5ylxx8jqyyzv56816s0d4ssiyi8rz"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8235/730/kubejs-neoforge-26.1.2-8.0.2.jar",
+    "filename": "kubejs-neoforge-26.1.2-8.0.2.jar",
+    "sha256": "1krd2lb7gzxqabhj9783b52l1whfkpmvgjpjxq6q7w41l4qz7gha"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7736/203/kotlinforforge-6.2.0-all.jar",
+    "filename": "kotlinforforge-6.2.0-all.jar",
+    "sha256": "0z1cgmhiv6m79qx4a3sclmqlf0llfd74jc25q42r9gszi1rhgg6h"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7805/937/mru-1.0.28%2blts%2b26.1-neoforge.jar",
+    "filename": "mru-1.0.28%2blts%2b26.1-neoforge.jar",
+    "sha256": "0vsqsc0gm8gdiign7m7jk6dcyxnfjyagps690ar3hjical2384g0"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7819/553/globalpacks-neoforge-26.1-26.1.0.jar",
+    "filename": "globalpacks-neoforge-26.1-26.1.0.jar",
+    "sha256": "0fkkrkr84f7j2dglcnc127csva8232lcs5sasqwjv91szcrmb552"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7958/494/just-hammers-neoforge-26.1.2.1.jar",
+    "filename": "just-hammers-neoforge-26.1.2.1.jar",
+    "sha256": "1ih883y28iicl5apdcdg8vp040j6s824valddp1hdbyaq733ynrk"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8218/526/Searchables-neoforge-26.1.2-1.0.2.jar",
+    "filename": "Searchables-neoforge-26.1.2-1.0.2.jar",
+    "sha256": "1cr5g26sn182fh70ilawgi178q41xxzfqhfdmw9mm7r3andnsil5"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8183/439/starcatcher-2.3.14-NEOFORGE-26.1.2.jar",
+    "filename": "starcatcher-2.3.14-NEOFORGE-26.1.2.jar",
+    "sha256": "0v183yjnxk0sizb1lw84lgf7vav8nfd1j7wx6rp4fmn5fxfn7kj0"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7148/803/Fancy_Beds-v4.1.zip",
+    "filename": "Fancy_Beds-v4.1.zip",
+    "sha256": "1bpk1xc2qx0z2014hk0b9sw4rrara5ljp3zqkswfz8agv19hkdff"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8127/472/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+    "filename": "AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+    "sha256": "18zwcqn7la7w5gzfi7xzy2zips8gvacn48h8a5r9shkf69y4qg7g"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7943/178/refurbished_furniture-neoforge-26.1.2-1.0.23.jar",
+    "filename": "refurbished_furniture-neoforge-26.1.2-1.0.23.jar",
+    "sha256": "1gvabix8g6ps0lnlsz4h9my1cdhs44w4xdipazh5arj5mw27k8wr"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8050/616/BetterKeys.zip",
+    "filename": "BetterKeys.zip",
+    "sha256": "1wz89595xsy8q1wn5z2dk22h0fkmyjh10mvbry6d14c1bvgp3k2x"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8265/306/animal_pen-neoforge-26.1-2.4.2.jar",
+    "filename": "animal_pen-neoforge-26.1-2.4.2.jar",
+    "sha256": "0naixhppvk3jikqi87am2qdprwi47q2jv8k29zfjgkwkq1rm3lh4"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8171/92/ApothicEnchanting-26.1.2-2.0.0.jar",
+    "filename": "ApothicEnchanting-26.1.2-2.0.0.jar",
+    "sha256": "0yqjvsbjgkj5n7vq4yxlbn792j9akr7dxx57v3kmahab7l5hg78p"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8245/230/FA%2bPlayer-v1.1.zip",
+    "filename": "FA%2bPlayer-v1.1.zip",
+    "sha256": "0cvzjfnldiv1ad783qi04igky948dp39shj18079ikg55xdsxqwy"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7891/762/konkrete_neoforge_1.10.1_MC_26.1.1.jar",
+    "filename": "konkrete_neoforge_1.10.1_MC_26.1.1.jar",
+    "sha256": "1snhgnh8sg1bws1zy8rfkgyvp79gbrvblm84mw4y4f3baccmjvph"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7956/96/artifacts-neoforge-15.0.0.jar",
+    "filename": "artifacts-neoforge-15.0.0.jar",
+    "sha256": "0k4n59nn3bmkgyfjnbgg32axry2wd1s9s4yfwinx0n5zcjzhdbqg"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8231/148/xaeroworldmap-neoforge-26.1.2-1.41.0.jar",
+    "filename": "xaeroworldmap-neoforge-26.1.2-1.41.0.jar",
+    "sha256": "13nd50kmjpv0850cydw9c5282xr3qrdhav41z84j8r75mzrsrjky"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7925/547/curios-neoforge-15.0.0-beta.2%2b26.1.2.jar",
+    "filename": "curios-neoforge-15.0.0-beta.2%2b26.1.2.jar",
+    "sha256": "0diilv23bpd5k2skffa4x3czzraxyilgdvvpn5qhfpv19abb06fx"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8272/343/sophisticatedbackpacks-26.1.2-3.25.74.1916.jar",
+    "filename": "sophisticatedbackpacks-26.1.2-3.25.74.1916.jar",
+    "sha256": "00dfw06a1sgcbbzkm29qw965f1djvidaa2khilargryajb4yl1i1"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8188/610/yamlconfig-neoforge-20.1.2.jar",
+    "filename": "yamlconfig-neoforge-20.1.2.jar",
+    "sha256": "1gghmpy9ji966429c16z2n1mbbksc7w4anvmbj5k10v9r182y8yk"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8251/528/PuzzlesLib-v26.1.11-mc26.1.x-NeoForge.jar",
+    "filename": "PuzzlesLib-v26.1.11-mc26.1.x-NeoForge.jar",
+    "sha256": "0y08732nm3xvi5x2j8a7acn0m9f1shywai49bslha2hfwnd7y6yk"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8280/195/ftb-quests-neoforge-26.1.2.2.jar",
+    "filename": "ftb-quests-neoforge-26.1.2.2.jar",
+    "sha256": "1sxpwjp650x3lfwb97fjvbpl47vvwz72cxfvvbm78laz9ryj5pw2"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8249/933/arc-neoforge-20.2.3.jar",
+    "filename": "arc-neoforge-20.2.3.jar",
+    "sha256": "15vn1vlj7nnnmnc8ygfkvafzrn4nbhklcpcvixsm1qg7i6nd6by3"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7905/240/better-compatability-checker-neoforge-26.1.2.1.jar",
+    "filename": "better-compatability-checker-neoforge-26.1.2.1.jar",
+    "sha256": "1ja9bvb2sh0nsympjr6zcvmizfg03v3pfivaczbw6h8grxnrp45y"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7810/780/solcarrot-26.1-1.19.0.jar",
+    "filename": "solcarrot-26.1-1.19.0.jar",
+    "sha256": "039brpx2xx6gbshg0biihmxdqsra64fyw7c986380aapbw233qzs"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8085/81/croptopia-neoforge-26.1.2-4.3.1.jar",
+    "filename": "croptopia-neoforge-26.1.2-4.3.1.jar",
+    "sha256": "0kfg4c1xbynfv6j62gcqzs64rg4hnximqjriz5iddic60kai30g9"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7930/640/entity_texture_features_26.1-neoforge-7.1.jar",
+    "filename": "entity_texture_features_26.1-neoforge-7.1.jar",
+    "sha256": "0l66cadldib3lvlm8px99h4d8irhwr32nm3lrmd8ffw8axm65fm2"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8270/388/Ecologics-NeoFab-26.1.2-2.5.2.jar",
+    "filename": "Ecologics-NeoFab-26.1.2-2.5.2.jar",
+    "sha256": "1r60wlm8yszy4502frnf0l1xn088d7bjyv61370brf2lb5dwp3d2"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8218/748/rhino-2101.2.7-build.85.jar",
+    "filename": "rhino-2101.2.7-build.85.jar",
+    "sha256": "16n1j7q7qyz531m28ljln4p0dgq3aclgrjfq2v5h89cbaz795pwm"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7809/939/mcw-fences-1.2.1-mc26.1neoforge.jar",
+    "filename": "mcw-fences-1.2.1-mc26.1neoforge.jar",
+    "sha256": "1fwwwk21j1zivmvd0fsjkdmq5f7f0x4gkqmg4ij4nd7njvl573gl"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8251/776/justdirethings-1.6.11.jar",
+    "filename": "justdirethings-1.6.11.jar",
+    "sha256": "0dll479k8sfalsp565bv2sxvpbl1qx0nacfyd70b01wnpay6mli7"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8127/306/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+    "filename": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+    "sha256": "1g5m2hy5ab2jyd7k3880gsq4gb8czvd30w6mjycy86lv9msrc9fv"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8025/339/Powah-7.0.4-alpha.jar",
+    "filename": "Powah-7.0.4-alpha.jar",
+    "sha256": "1v8g6jvif5kqxd5m56x44h2hdivs5gfzc7phyxv4vxdyk92265f9"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8123/288/ComplementaryUnbound_r5.8.1.zip",
+    "filename": "ComplementaryUnbound_r5.8.1.zip",
+    "sha256": "0rarj6viradnx5hrg0aixqxs2qbj7wy2xyrpm13l2zb8akyb32dv"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8143/372/bookoffamiliars-neoforge-26.1.2-2.1.1.jar",
+    "filename": "bookoffamiliars-neoforge-26.1.2-2.1.1.jar",
+    "sha256": "1az48yay6vxxpwdvv6rzirf03852ns55m1i12dv323w04sbx7fy4"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8257/570/appliedenergistics2-26.1.10-beta.jar",
+    "filename": "appliedenergistics2-26.1.10-beta.jar",
+    "sha256": "1whhc4s45wyqlh7h4zaxg2w5m58sr6aabq43wy89p62niqha44l4"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8294/180/theurgy-26.1.2-neoforge-1.111.0.jar",
+    "filename": "theurgy-26.1.2-neoforge-1.111.0.jar",
+    "sha256": "1x173bqjpn0fl51p9mxjhqy9rnbkqi8kbkx7cjq6gh2l3csasj0r"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7933/510/Better%20SB%20Upgrades-V1.2.zip",
+    "filename": "Better%20SB%20Upgrades-V1.2.zip",
+    "sha256": "08725w3hcj3x3sapx66vd5b5s9106jsmgc29y102a5c7krramqd1"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8050/473/onlyflax-26.1.2-neoforge-1.0.4.jar",
+    "filename": "onlyflax-26.1.2-neoforge-1.0.4.jar",
+    "sha256": "0pb278xr06lh6gkk3bfhrvdy3znisxi645lp8yvnwi5d4fy8alii"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8196/581/yet_another_config_lib_v3-3.9.4%2b26.1-neoforge.jar",
+    "filename": "yet_another_config_lib_v3-3.9.4%2b26.1-neoforge.jar",
+    "sha256": "1jhf44zczyq0d83bb91s9acw4b5rgjlv6ac1kwchmir790g60c5w"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7911/758/Clumps-neoforge-26.1.2-26.1.2.1.jar",
+    "filename": "Clumps-neoforge-26.1.2-26.1.2.1.jar",
+    "sha256": "1mnlkc8nlapds04ki8gy0xmanab9zq4gzw1094j5al14r9nv303h"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8293/989/modonomicon-26.1.2-neoforge-2.0.0.jar",
+    "filename": "modonomicon-26.1.2-neoforge-2.0.0.jar",
+    "sha256": "0f4d32fbjfkk1vg6py2jqpicz13c670797mynrwira8p1ya0fzhl"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7094/29/Fancy%20Crops%20v1.3.zip",
+    "filename": "Fancy%20Crops%20v1.3.zip",
+    "sha256": "0m8pfwl8xf24inbsiwxz777c1fzyj61n7ffajphj7mc7xh1ay9hc"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7875/755/melody_neoforge_1.0.16_MC_26.1.1.jar",
+    "filename": "melody_neoforge_1.0.16_MC_26.1.1.jar",
+    "sha256": "134c1gxmaiizr22z63dxk8y6pg5cjy1d2zi6l11f708vwkjhim2i"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7999/817/paginatedadvancements-2.8.2%2b26.1-neoforge.jar",
+    "filename": "paginatedadvancements-2.8.2%2b26.1-neoforge.jar",
+    "sha256": "09a05mklpjw3bm7fh99bqd2lcsnr7j7jmlis51whdq2g3s187vl5"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7943/180/configured-neoforge-26.1.2-2.7.5.jar",
+    "filename": "configured-neoforge-26.1.2-2.7.5.jar",
+    "sha256": "1zz82zp6rmzfv15d7fk2bcr6di5a9bjsfnjwf1drlhh65c7a9nrc"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8111/40/sodium-neoforge-0.8.12%2bmc26.1.2.jar",
+    "filename": "sodium-neoforge-0.8.12%2bmc26.1.2.jar",
+    "sha256": "1ipy8kx9mivc29a4avip0w5lzagggnbgsdfy5w7kxkag9nxgf3b7"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8269/485/reskillable-1.0.1-26.1.2.jar",
+    "filename": "reskillable-1.0.1-26.1.2.jar",
+    "sha256": "0jbazjvvi6yhvm4w8b09xlb0svwyqcglcaml9i6mhqxs9994zsch"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8235/962/balm-neoforge-26.1.2-26.1.2.7.jar",
+    "filename": "balm-neoforge-26.1.2-26.1.2.7.jar",
+    "sha256": "0c61n66kp1vbb4wnwzirzdx6346wm3y0h48nm2x7w9n4627mvyhr"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8249/838/sophisticatedstorage-26.1.2-1.5.76.1847.jar",
+    "filename": "sophisticatedstorage-26.1.2-1.5.76.1847.jar",
+    "sha256": "0vjwfm7xiwsxiwsiyxb3am8nnp9k2qd8xxygimj6820d71fbbs0h"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8269/716/ToolStats-neoforge-MC26.1.2-26.1.2.3.jar",
+    "filename": "ToolStats-neoforge-MC26.1.2-26.1.2.3.jar",
+    "sha256": "03p93j6zds3q12l193gp43k8ixh9dwpvxy0r19bxanyh0xbh59am"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7964/506/framework-neoforge-26.1.2-0.13.23.jar",
+    "filename": "framework-neoforge-26.1.2-0.13.23.jar",
+    "sha256": "0wcbg95ilkqi75hk0v59id6a64ryks1mgiv2bvz5dr1nfbgm2njw"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8243/8/cristellib-neoforge-26.1.2-3.1.7.jar",
+    "filename": "cristellib-neoforge-26.1.2-3.1.7.jar",
+    "sha256": "1k48fkvjiiv2n90varwihyhnv3l2m3c8k7jmi9ysmrd3kcddmwwj"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8255/890/FramedBlocks-11.3.2.jar",
+    "filename": "FramedBlocks-11.3.2.jar",
+    "sha256": "1mg6c3nak8sc9n3ix804x46vk7nil60svc83xj4qrpdbkfyyy0ii"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7903/186/sound-physics-remastered-neoforge-1.5.1%2b26.1.2.jar",
+    "filename": "sound-physics-remastered-neoforge-1.5.1%2b26.1.2.jar",
+    "sha256": "0crkq8l0b7swn8p0qn3vyc3w72rnh5kxfnh6xwymv6x9ny4nvwxl"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8252/84/lithostitched-1.7.10%2bbeta4-neoforge-26.1.jar",
+    "filename": "lithostitched-1.7.10%2bbeta4-neoforge-26.1.jar",
+    "sha256": "063pb5n5rxsclrpxixhgx4hph720yk6xwvx0rxjl66v27khbhgdx"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/7902/830/sodium-extra-neoforge-0.8.7%2bmc26.1.1.jar",
+    "filename": "sodium-extra-neoforge-0.8.7%2bmc26.1.1.jar",
+    "sha256": "18bhchb0bgvfrqwipcfivh2c4ncddrdpcgmhhdajp9438qa5rncs"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8192/770/Aquaculture-26.1.1-2.9.2.jar",
+    "filename": "Aquaculture-26.1.1-2.9.2.jar",
+    "sha256": "1v80gwh83vpk3xjvxhl6x8hd96rq09gi52dyg99gyjjmdm0xwg7g"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8231/335/ftb-ultimine-neoforge-26.1.2.5.jar",
+    "filename": "ftb-ultimine-neoforge-26.1.2.5.jar",
+    "sha256": "13y86rrb30yrqb8nzjgfrpwqf2j2m2494961z1cq6cw2y2k6jl9c"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8286/291/defaultoptions-neoforge-26.1.2-26.1.2.1.jar",
+    "filename": "defaultoptions-neoforge-26.1.2-26.1.2.1.jar",
+    "sha256": "0b8l96bgnprz8rr22k4kbz3p9b36qbnbxj0jdxijxn289w4wa61n"
+  },
+  {
+    "url": "https://edge.forgecdn.net/files/8272/348/sophisticatedcore-26.1.2-1.4.70.2030.jar",
+    "filename": "sophisticatedcore-26.1.2-1.4.70.2030.jar",
+    "sha256": "10pwfidihynmld69gynwzslnp40ihskkskf5z99dfrnmzyffj5m0"
+  }
+]

@@ -1,0 +1,83 @@
+{
+  id: "01D6F040D6822FC7",
+  order_index: 5,
+  icon: {
+    id: "justdirethings:gooblock_tier4",
+    count: 1,
+  },
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "1120F07084677F81",
+      item: {
+        id: "justdirethings:raw_eclipsealloy_ore",
+        count: 1,
+      },
+    },
+    {
+      id: "0290032690A9F6C5",
+      item: {
+        id: "justdirethings:raw_coal_t4_ore",
+        count: 1,
+      },
+    },
+    {
+      id: "7EB58754413D49A2",
+      item: {
+        id: "justdirethings:template_eclipsealloy",
+        count: 1,
+      },
+    },
+    {
+      id: "43FFE888D95C4F38",
+      item: {
+        id: "justdirethings:unrefined_t4_fluid_bucket",
+        count: 1,
+      },
+    },
+    {
+      id: "7C3601163785AAD5",
+      item: {
+        id: "justdirethings:upgrade_debuffremover",
+        count: 1,
+      },
+    },
+    {
+      id: "6D37B99928DEE4A0",
+      item: {
+        id: "justdirethings:upgrade_noai",
+        count: 1,
+      },
+    },
+    {
+      id: "065D0266DC157938",
+      item: {
+        id: "justdirethings:upgrade_decoy",
+        count: 1,
+      },
+    },
+    {
+      id: "1301231D6A6D8684",
+      item: {
+        id: "justdirethings:upgrade_phase",
+        count: 1,
+      },
+    },
+    {
+      id: "5DCC47B59E07C1DE",
+      item: {
+        id: "justdirethings:upgrade_earthquake",
+        count: 1,
+      },
+    },
+    {
+      id: "338D25B4A812AF02",
+      item: {
+        id: "justdirethings:upgrade_glowing",
+        count: 1,
+      },
+    },
+  ],
+}

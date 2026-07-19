@@ -1,0 +1,21 @@
+﻿{
+    "modpackName":  {
+                        "value":  "craftoria-2",
+                        "comments":  [
+                                         "The name of the modpack"
+                                     ]
+                    },
+    "modpackVersion":  {
+                           "value":  "0.10.1",
+                           "comments":  [
+                                            "The version of the modpack"
+                                        ]
+                       },
+    "useMetadata":  {
+                        "value":  false,
+                        "comments":  [
+                                         "Use the metadata.json to determine the modpack version",
+                                         "ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING"
+                                     ]
+                    }
+}

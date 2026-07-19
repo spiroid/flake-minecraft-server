@@ -1,0 +1,55 @@
+{
+  id: "55C75A71A401F6F9",
+  order_index: 4,
+  icon: {
+    id: "justdirethings:gooblock_tier3",
+    count: 1,
+  },
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "263627BC8DAC2CEA",
+      item: {
+        id: "justdirethings:raw_celestigem_ore",
+        count: 1,
+      },
+    },
+    {
+      id: "7C5971C8A80B7F89",
+      item: {
+        id: "justdirethings:raw_coal_t3_ore",
+        count: 1,
+      },
+    },
+    {
+      id: "6721019CE02CB215",
+      item: {
+        id: "justdirethings:template_celestigem",
+        count: 1,
+      },
+    },
+    {
+      id: "0481306435095D58",
+      item: {
+        id: "justdirethings:upgrade_decoy",
+        count: 1,
+      },
+    },
+    {
+      id: "41EA33204D89A5D9",
+      item: {
+        id: "justdirethings:upgrade_dropteleport",
+        count: 1,
+      },
+    },
+    {
+      id: "326CB0D174BCECF0",
+      item: {
+        id: "justdirethings:upgrade_lingering",
+        count: 1,
+      },
+    },
+  ],
+}
