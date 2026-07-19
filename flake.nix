@@ -65,7 +65,8 @@
           fi
 
           echo "[craftoria2] Synchronisation des overrides..."
-          rsync -a --ignore-existing "\$SERVER_SHARE/overrides-store/" ./
+          rsync -rlt --ignore-existing --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r "\$SERVER_SHARE/overrides-store/" ./
+          chmod u+rwx .
 
           rm -rf mods
           ln -s "\$SERVER_SHARE/mods-store" mods
